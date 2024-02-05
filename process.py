@@ -371,12 +371,15 @@ for site in websites:
 
     issues_md += f"**{site.url}**\n\n"
     if site.issues:
-        issues_md += '\n'.join(site.issues) + '\n\n'
+        issues_md += '\n'.join(site.issues)
+        issues_md += f"* [Automatic feedback here]({site.feedback_path()})"
+        issues_md += '\n\n'
     else:
-        issues_md += f"No issues found! 🎉\n\n"
+        issues_md += f"* [Automatic feedback here]({site.feedback_path()})"
+        issues_md += f"* No issues found! 🎉\n\n"
 
     if not site.portfolio_page:
-        issues_md += f"[Automatic feedback here]({site.feedback_path()})\n\n"
+        issues_md += 
 
 toc_table += "</tr></table>"
 
