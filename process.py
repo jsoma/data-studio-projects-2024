@@ -380,7 +380,7 @@ for site in websites:
         issues_md += '\n\n'
     else:
         if not site.portfolio_page:
-            issues_md += f"* [Automatic feedback here]({site.feedback_path()})"
+            issues_md += f"* 🤖 [Automatic feedback here]({site.feedback_path()})\n"
         issues_md += f"* No issues found! 🎉\n\n"
 
 

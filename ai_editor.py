@@ -69,23 +69,25 @@ def get_ap_feedback(html):
     last_message = {
         "role": "user",
         "content": textwrap.dedent(f"""
-            Provide suggestions for improving the text of the work below as a list of bullet points.
+            Provide suggestions for improving the text of the work below as a list of bullet points. The text is provided as an HTML page under the 'PAGE TO BE EDITED' heading.
+
+            ## Copy editing guidelines
 
             - Only address the copy of the piece.
             - Do not nest bullet points.
             - Only use the AP style guide to make suggestions.
             - Every bullet point must be something that needs to be fixed.
-            - Be specific and concise
+            - Be specific and concise.
             - Each bullet point should include a specific text change, NOT a general suggestion.
 
-            This is an experienced reporter. Their sources, reporting, and facts are accurate. They are looking for a senior copy editor to help them improve the text of their piece.
+            Note that piece was written by an experienced reporter. Their sources, reporting, and facts are accurate. They are looking for a senior copy editor to help them improve the text of their piece.
 
             - Do not address culture, politics, or other subjective elements.
             - Do not ask for verification of facts or sources.
             - Do not address HTML, only edit the text of the piece.
             - Do not address tone, voice or formality.
 
-            PAGE HTML:
+            ## PAGE TO BE EDITED
             
             {html}"""),
     }
