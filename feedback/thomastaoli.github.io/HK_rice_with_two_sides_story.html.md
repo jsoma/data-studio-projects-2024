@@ -1,4 +1,4 @@
-# Feedback for [Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/HK_rice_with_two_sides/story.html)
+# Feedback for [Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/hk-rice-with-two-sides/)
 
 ## AP Style Feedback
 
