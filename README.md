@@ -142,7 +142,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Meghnad Bose  Award-winning multimedia journalist](https://meghnadbose.github.io/)|[![mobile](screenshots/meghnadbose.github.io/index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-wide-full.jpg)|
-|[More Results, Closer Matches in Tests Now: But Will That Be Enough to Save Cricket’s 5-Day Format?](https://meghnadbose.github.io/data-stories/test_cricket.html)|[![mobile](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://meghnadbose.github.io/data-stories/test_cricket.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -153,8 +153,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/data-stories/test_cricket.html**
 
-* All HTML files should be named `index.html`. If this is a personal project, move `data-stories/test_cricket.html` into a folder (or repo) called `test_cricket`, then rename the file `index.html`. That way the project can be found at **/test_cricket** instead of **/test_cricket.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Change URL to use `-` instead of spaces or underscores
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/data-stories_test_cricket.html.md)
 
 
