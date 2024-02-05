@@ -1,4 +1,4 @@
-# Feedback for [Sauna](https://lauramiina.github.io/Suomi-Sauna/)
+# Feedback for [Sauna](https://lauramiina.github.io/suomi-sauna/)
 
 ## AP Style Feedback
 
