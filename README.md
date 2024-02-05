@@ -8,6 +8,7 @@ Quick checks to make sure our pages are looking their best.
 <td>sabinahung.github.io request failed</td>
 </tr><tr>
 <td>katrventura.github.io request failed</td>
+<td><a href="#dlaiugithubio"><img src="screenshots/dlaiu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>dlaiu.github.io</a></td>
 </tr></table>
 
 
@@ -104,7 +105,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://sabinahung.github.io/pet-ownership-taiwan/**
 
-* [Automatic feedback here](feedback/sabinahung.github.io/pet-ownership-taiwan_index.html.md)* No issues found! 🎉
+* 🤖 [Automatic feedback here](feedback/sabinahung.github.io/pet-ownership-taiwan_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -125,5 +127,28 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/climate-turtle-gender/**
 
-* [Automatic feedback here](feedback/katrventura.github.io/climate-turtle-gender_index.html.md)* No issues found! 🎉
+* 🤖 [Automatic feedback here](feedback/katrventura.github.io/climate-turtle-gender_index.html.md)
+* No issues found! 🎉
+
+
+
+## dlaiu.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[index.html](https://dlaiu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/index.html-wide-full.jpg)|
+|[Why do all malls in Singapore feel the same?](https://dlaiu.github.io/generic-malls-singapore/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-full.jpg)|
+
+
+### Automatic Checks
+
+**https://dlaiu.github.io/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+
+**https://dlaiu.github.io/generic-malls-singapore/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/dlaiu.github.io/generic-malls-singapore_index.html.md)
 
