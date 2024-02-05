@@ -128,7 +128,7 @@ class Website:
         # get page html
         html = await self.page.content()
         feedback = get_ap_feedback(html)
-        text = f"# Feedback for [{self.page_title}]({self.url})\n\n## AP Style Feedback\n\n{feedback}"
+        text = f"# Feedback for [{self.page_title}]({self.url})\n\n[Request updated copy edits](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)\n\n## AP Style Feedback\n\n{feedback}"
         feedback_file.write_text(text)
 
     def shot_path(self, size, version="full"):
@@ -238,7 +238,7 @@ class Website:
         """)
 
         if not self.successful_request:
-            self.issues.append("* **Could not access the page** - if you moved it, let me know!")
+            self.issues.append("* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!")
             return
     
         if not await self.page.title():
