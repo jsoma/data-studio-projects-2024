@@ -160,7 +160,6 @@ Quick checks to make sure our pages are looking their best.
 
 * All HTML files should be named `index.html`. If this is a personal project, move `data-stories/test_cricket.html` into a folder (or repo) called `test_cricket`, then rename the file `index.html`. That way the project can be found at **/test_cricket** instead of **/test_cricket.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/data-stories_test_cricket.html.md)
 
 
