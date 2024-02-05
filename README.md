@@ -25,7 +25,5 @@ Quick checks to make sure our pages are looking their best.
 **https://lauramiina.github.io/Suomi-Sauna/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-[Automatic feedback here](feedback/lauramiina.github.io/Suomi-Sauna_index.html.md)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths* [Automatic feedback here](feedback/lauramiina.github.io/Suomi-Sauna_index.html.md)
 
