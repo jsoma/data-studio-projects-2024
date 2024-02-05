@@ -26,7 +26,8 @@ Quick checks to make sure our pages are looking their best.
 **https://lauramiina.github.io/Suomi-Sauna/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths* [Automatic feedback here](feedback/lauramiina.github.io/Suomi-Sauna_index.html.md)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/lauramiina.github.io/Suomi-Sauna_index.html.md)
 
 
 
@@ -43,12 +44,13 @@ Quick checks to make sure our pages are looking their best.
 
 **https://thomastaoli.github.io/**
 
-* Add a link to your project's GitHub repo, so people can review your code
+* No issues found! 🎉
 
 **https://thomastaoli.github.io/HK_rice_with_two_sides/story.html**
 
 * All HTML files should be named `index.html`. If this is a personal project, move `HK_rice_with_two_sides/story.html` into a folder (or repo) called `story`, then rename the file `index.html`. That way the project can be found at **/story** instead of **/story.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
-* Change URL to be all in lowercase* [Automatic feedback here](feedback/thomastaoli.github.io/HK_rice_with_two_sides_story.html.md)
+* Change URL to be all in lowercase
+* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/HK_rice_with_two_sides_story.html.md)
 
