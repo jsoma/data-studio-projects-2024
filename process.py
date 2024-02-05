@@ -389,7 +389,7 @@ toc_table += "</tr></table>"
 readme_md += issues_md
 
 readme_md = (
-    "# Data Studio 2023 Personal Projects Test Page\n\n" +
+    "# Data Studio 2024 Personal Projects Test Page\n\n" +
     "Quick checks to make sure our pages are looking their best.\n\n" +
     toc_md +
     toc_table + 
