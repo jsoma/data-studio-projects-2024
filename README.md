@@ -207,7 +207,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Radhika Rukmangadhan](https://radhika3558.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/radhika3558.github.io/index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://radhika3558.github.io/Pharma-prices/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Sticker shock: Prescription drug prices in the US vs the world](https://radhika3558.github.io/pharma-prices/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -216,10 +216,10 @@ Quick checks to make sure our pages are looking their best.
 
 * No issues found! 🎉
 
-**https://radhika3558.github.io/Pharma-prices/**
+**https://radhika3558.github.io/pharma-prices/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/radhika3558.github.io/Pharma-prices_index.html.md)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* 🤖 [Automatic feedback for copy edits](feedback/radhika3558.github.io/pharma-prices_index.html.md)
 
 
 
