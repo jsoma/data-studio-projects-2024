@@ -29,7 +29,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Carla Mandiola Website](http://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](http://mandiuu.github.io/Wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Wine in NYC](http://mandiuu.github.io/wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -38,10 +38,12 @@ Quick checks to make sure our pages are looking their best.
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**http://mandiuu.github.io/Wine**
+**http://mandiuu.github.io/wine**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/Wine_index.html.md)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `GFajZOEXgAAXHJZ.jpeg` missing `alt` tag
+    * Image `prices.png` missing `alt` tag
+* 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/wine_index.html.md)
 
 
 
