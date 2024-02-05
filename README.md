@@ -3,7 +3,7 @@
 Quick checks to make sure our pages are looking their best.
 
 <table><tr><td><a href="#mandiuugithubio"><img src="screenshots/mandiuu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mandiuu.github.io</a></td>
-<td>charlenelin0824.github.io request failed</td>
+<td><a href="#charlenelin0824githubio"><img src="screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>charlenelin0824.github.io</a></td>
 <td><a href="#dlaiugithubio"><img src="screenshots/dlaiu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>dlaiu.github.io</a></td>
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
 </tr><tr>
@@ -28,21 +28,19 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Carla Mandiola Website](http://Mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
-|[Wine in NYC](http://Mandiuu.github.io/Wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-wide-full.jpg)|
+|[Carla Mandiola Website](http://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
+|[Wine in NYC](http://mandiuu.github.io/Wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**http://Mandiuu.github.io/**
+**http://mandiuu.github.io/**
 
-* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**http://Mandiuu.github.io/Wine**
+**http://mandiuu.github.io/Wine**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `GFajZOEXgAAXHJZ.jpeg` missing `alt` tag
     * Image `prices.png` missing `alt` tag
@@ -55,20 +53,20 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[Site not found · GitHub Pages](https://charlenelin0824.github.io/Updated-Portfolio/fancybuffet-page.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Charlene's Portfolio Website](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
+|[Inner Page - Laura Bootstrap Template](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://charlenelin0824.github.io/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://charlenelin0824.github.io/Updated-Portfolio/fancybuffet-page.html**
+**https://charlenelin0824.github.io/fancy-buffet/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/Updated-Portfolio_fancybuffet-page.html.md)
+* Add a link to your project's GitHub repo, so people can review your code
+* 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/fancy-buffet_index.html.md)
 
 
 
@@ -89,8 +87,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://dlaiu.github.io/generic-malls-singapore/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/dlaiu.github.io/generic-malls-singapore_index.html.md)
+* 🤖 [Automatic feedback here](feedback/dlaiu.github.io/generic-malls-singapore_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -121,8 +119,8 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Work and projects](https://lauramiina.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lauramiina.github.io/index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://lauramiina.github.io/Suomi-Sauna/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Laura Kukkonen](https://lauramiina.github.io/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lauramiina.github.io/index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/index.html-wide-full.jpg)|
+|[Sauna](https://lauramiina.github.io/suomi-sauna/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lauramiina.github.io/suomi-sauna_index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/suomi-sauna_index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/suomi-sauna_index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/suomi-sauna_index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/suomi-sauna_index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/suomi-sauna_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -131,10 +129,10 @@ Quick checks to make sure our pages are looking their best.
 
 * No issues found! 🎉
 
-**https://lauramiina.github.io/Suomi-Sauna/**
+**https://lauramiina.github.io/suomi-sauna/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/lauramiina.github.io/Suomi-Sauna_index.html.md)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/lauramiina.github.io/suomi-sauna_index.html.md)
 
 
 
@@ -143,7 +141,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Meghnad Bose  Award-winning multimedia journalist](https://meghnadbose.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/meghnadbose.github.io/index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-wide-full.jpg)|
+|[Meghnad Bose  Award-winning multimedia journalist](https://meghnadbose.github.io/)|[![mobile](screenshots/meghnadbose.github.io/index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-wide-full.jpg)|
 |[More Results, Closer Matches in Tests Now: But Will That Be Enough to Save Cricket’s 5-Day Format?](https://meghnadbose.github.io/data-stories/test_cricket.html)|[![mobile](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/data-stories_test_cricket.html-wide-full.jpg)|
 
 
@@ -157,7 +155,6 @@ Quick checks to make sure our pages are looking their best.
 
 * All HTML files should be named `index.html`. If this is a personal project, move `data-stories/test_cricket.html` into a folder (or repo) called `test_cricket`, then rename the file `index.html`. That way the project can be found at **/test_cricket** instead of **/test_cricket.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/data-stories_test_cricket.html.md)
 
 
@@ -167,7 +164,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[mjdanbury.github.io](https://mjdanbury.github.io/)<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mjdanbury.github.io/index.html-mobile-thumb.jpg)](screenshots/mjdanbury.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg)](screenshots/mjdanbury.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mjdanbury.github.io/index.html-wide-thumb.jpg)](screenshots/mjdanbury.github.io/index.html-wide-full.jpg)|
+|[Matthew Danbury](https://mjdanbury.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mjdanbury.github.io/index.html-mobile-thumb.jpg)](screenshots/mjdanbury.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg)](screenshots/mjdanbury.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mjdanbury.github.io/index.html-wide-thumb.jpg)](screenshots/mjdanbury.github.io/index.html-wide-full.jpg)|
 |[What Makes For A Great Pizza Crust?](https://mjdanbury.github.io/PIZZA-PIZZA/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mjdanbury.github.io/PIZZA-PIZZA_index.html-mobile-thumb.jpg)](screenshots/mjdanbury.github.io/PIZZA-PIZZA_index.html-mobile-full.jpg)|[![medium](screenshots/mjdanbury.github.io/PIZZA-PIZZA_index.html-medium-thumb.jpg)](screenshots/mjdanbury.github.io/PIZZA-PIZZA_index.html-medium-full.jpg)|[![wide](screenshots/mjdanbury.github.io/PIZZA-PIZZA_index.html-wide-thumb.jpg)](screenshots/mjdanbury.github.io/PIZZA-PIZZA_index.html-wide-full.jpg)|
 
 
@@ -181,7 +178,6 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
@@ -312,7 +308,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Thomas Li - Home](https://thomastaoli.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-wide-full.jpg)|
-|[Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/HK_rice_with_two_sides/story.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/HK_rice_with_two_sides_story.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/HK_rice_with_two_sides_story.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/HK_rice_with_two_sides_story.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/HK_rice_with_two_sides_story.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/HK_rice_with_two_sides_story.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/HK_rice_with_two_sides_story.html-wide-full.jpg)|
+|[Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/hk-rice-with-two-sides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -321,13 +317,10 @@ Quick checks to make sure our pages are looking their best.
 
 * No issues found! 🎉
 
-**https://thomastaoli.github.io/HK_rice_with_two_sides/story.html**
+**https://thomastaoli.github.io/hk-rice-with-two-sides/**
 
-* All HTML files should be named `index.html`. If this is a personal project, move `HK_rice_with_two_sides/story.html` into a folder (or repo) called `story`, then rename the file `index.html`. That way the project can be found at **/story** instead of **/story.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Change URL to use `-` instead of spaces or underscores
-* Change URL to be all in lowercase
 * Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/HK_rice_with_two_sides_story.html.md)
+* 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/hk-rice-with-two-sides_index.html.md)
 
 
 
