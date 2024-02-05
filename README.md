@@ -29,7 +29,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Carla Mandiola Website](http://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
-|[Wine in NYC](http://mandiuu.github.io/Wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Wine_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](http://mandiuu.github.io/Wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -40,10 +40,7 @@ Quick checks to make sure our pages are looking their best.
 
 **http://mandiuu.github.io/Wine**
 
-* Change URL to be all in lowercase
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `GFajZOEXgAAXHJZ.jpeg` missing `alt` tag
-    * Image `prices.png` missing `alt` tag
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/Wine_index.html.md)
 
 
@@ -98,7 +95,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[katrventura](https://katrventura.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/katrventura.github.io/index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/index.html-wide-full.jpg)|
-|[Data Story](https://katrventura.github.io/climate-turtle-gender/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/katrventura.github.io/climate-turtle-gender_index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/climate-turtle-gender_index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/climate-turtle-gender_index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-wide-full.jpg)|
+|[Feminine Waves](https://katrventura.github.io/climate-turtle-gender/)|[![mobile](screenshots/katrventura.github.io/climate-turtle-gender_index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/climate-turtle-gender_index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/climate-turtle-gender_index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -210,7 +207,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Radhika Rukmangadhan](https://radhika3558.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/radhika3558.github.io/index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/index.html-wide-full.jpg)|
-|[Sticker shock: Prescription drug prices in the US vs the world](https://radhika3558.github.io/Pharma-prices/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/radhika3558.github.io/Pharma-prices_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/Pharma-prices_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/Pharma-prices_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/Pharma-prices_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/Pharma-prices_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/Pharma-prices_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://radhika3558.github.io/Pharma-prices/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -221,8 +218,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://radhika3558.github.io/Pharma-prices/**
 
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/radhika3558.github.io/Pharma-prices_index.html.md)
 
 
@@ -233,7 +229,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Renata Carlos Daou - Github](https://renatadaou.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://renatadaou.github.io/Renata-Daou/data-stories/fire.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Forest Fires in the Amazon](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -242,10 +238,11 @@ Quick checks to make sure our pages are looking their best.
 
 * No issues found! 🎉
 
-**https://renatadaou.github.io/Renata-Daou/data-stories/fire.html**
+**https://renatadaou.github.io/Wildfires-in-Amazonas-2023/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/Renata-Daou_data-stories_fire.html.md)
+* Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html.md)
 
 
 
@@ -255,7 +252,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sabina Hung](https://sabinahung.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sabinahung.github.io/index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/index.html-wide-full.jpg)|
-|[Has Taiwan become a cat state?](https://sabinahung.github.io/pet-ownership-taiwan/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-full.jpg)|
+|[Has Taiwan become a cat state?](https://sabinahung.github.io/pet-ownership-taiwan/)|[![mobile](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
