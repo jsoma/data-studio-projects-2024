@@ -142,7 +142,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Meghnad Bose  Award-winning multimedia journalist](https://meghnadbose.github.io/)|[![mobile](screenshots/meghnadbose.github.io/index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://meghnadbose.github.io/data-stories/test_cricket.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[More Results, Closer Matches in Tests Now: But Will That Be Enough to Save Cricket’s 5-Day Format?](https://meghnadbose.github.io/test-cricket)|[![mobile](screenshots/meghnadbose.github.io/test-cricket_index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/test-cricket_index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/test-cricket_index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/test-cricket_index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/test-cricket_index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/test-cricket_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -151,10 +151,10 @@ Quick checks to make sure our pages are looking their best.
 
 * No issues found! 🎉
 
-**https://meghnadbose.github.io/data-stories/test_cricket.html**
+**https://meghnadbose.github.io/test-cricket**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/data-stories_test_cricket.html.md)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
