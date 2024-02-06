@@ -126,7 +126,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://lauramiina.github.io/**
 
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://lauramiina.github.io/suomi-sauna/**
 
@@ -152,8 +152,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -208,8 +208,8 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Radhika Rukmangadhan](https://radhika3558.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/radhika3558.github.io/index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/index.html-wide-full.jpg)|
-|[Sticker shock: Prescription drug prices in the US vs the world](https://radhika3558.github.io/pharma-prices/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-full.jpg)|
+|[Radhika Rukmangadhan](https://radhika3558.github.io/)|[![mobile](screenshots/radhika3558.github.io/index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/index.html-wide-full.jpg)|
+|[Sticker shock: Prescription drug prices in the US vs the world](https://radhika3558.github.io/pharma-prices/)|[![mobile](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -220,8 +220,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://radhika3558.github.io/pharma-prices/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* 🤖 [Automatic feedback for copy edits](feedback/radhika3558.github.io/pharma-prices_index.html.md)
+* 🤖 [Automatic feedback here](feedback/radhika3558.github.io/pharma-prices_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -253,7 +253,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Sabina Hung](https://sabinahung.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sabinahung.github.io/index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/index.html-wide-full.jpg)|
+|[Sabina Hung](https://sabinahung.github.io/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sabinahung.github.io/index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/index.html-wide-full.jpg)|
 |[Has Taiwan become a cat state?](https://sabinahung.github.io/pet-ownership-taiwan/)|[![mobile](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-full.jpg)|
 
 
@@ -278,8 +278,8 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Shivangi Bishnoi](https://shivangibishnoi.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivangibishnoi.github.io/index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-wide-full.jpg)|
-|[Yoga story](https://shivangibishnoi.github.io/yoga-in-US/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-wide-full.jpg)|
+|[Shivangi Bishnoi](https://shivangibishnoi.github.io)|[![mobile](screenshots/shivangibishnoi.github.io/index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-wide-full.jpg)|
+|[Yoga story](https://shivangibishnoi.github.io/yoga-in-US/)|[![mobile](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -294,8 +294,6 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `image.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/shivangibishnoi.github.io/yoga-in-US_index.html.md)
 
 
