@@ -253,7 +253,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Sabina Hung](https://sabinahung.github.io/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/sabinahung.github.io/index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/index.html-wide-full.jpg)|
+|[Sabina Hung](https://sabinahung.github.io/)|[![mobile](screenshots/sabinahung.github.io/index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/index.html-wide-full.jpg)|
 |[Has Taiwan become a cat state?](https://sabinahung.github.io/pet-ownership-taiwan/)|[![mobile](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-full.jpg)|
 
 
@@ -261,10 +261,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://sabinahung.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://sabinahung.github.io/img/streaming.jpg` missing `alt` tag
-    * Image `https://sabinahung.github.io/img/court.jpg` missing `alt` tag
-    * Image `https://sabinahung.github.io/img/pet-ownership.jpg` missing `alt` tag
+* No issues found! 🎉
 
 **https://sabinahung.github.io/pet-ownership-taiwan/**
 
