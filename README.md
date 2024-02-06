@@ -279,21 +279,21 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Shivangi Bishnoi](https://shivangibishnoi.github.io)|[![mobile](screenshots/shivangibishnoi.github.io/index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-wide-full.jpg)|
-|[Yoga story](https://shivangibishnoi.github.io/yoga-in-US/)|[![mobile](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-US_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://shivangibishnoi.github.io/yoga-in-US/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://shivangibishnoi.github.io**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `images/profile1.jpg` missing `alt` tag
     * Image `images/arrow.png` missing `alt` tag
 
 **https://shivangibishnoi.github.io/yoga-in-US/**
 
-* Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/shivangibishnoi.github.io/yoga-in-US_index.html.md)
 
 
