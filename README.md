@@ -8,7 +8,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
 </tr><tr>
 <td><a href="#lauramiinagithubio"><img src="screenshots/lauramiina.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lauramiina.github.io</a></td>
-<td><a href="#juliezhngithubio"><img src="screenshots/juliezhn.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juliezhn.github.io</a></td>
+<td>juliezhn.github.io request failed</td>
 <td><a href="#meghnadbosegithubio"><img src="screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meghnadbose.github.io</a></td>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
 </tr><tr>
@@ -141,16 +141,15 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Story template](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Site not found · GitHub Pages](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Site not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://juliezhn.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `project1_delivery_image.jpeg` missing `alt` tag
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 
 **https://juliezhn.github.io/food-delivery/**
 
@@ -176,8 +175,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -199,6 +198,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
@@ -299,7 +299,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Shivangi Bishnoi](https://shivangibishnoi.github.io)|[![mobile](screenshots/shivangibishnoi.github.io/index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://shivangibishnoi.github.io/yoga-in-US/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Yoga story](https://shivangibishnoi.github.io/yoga-in-us/)|[![mobile](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -311,10 +311,10 @@ Quick checks to make sure our pages are looking their best.
     * Image `images/profile1.jpg` missing `alt` tag
     * Image `images/arrow.png` missing `alt` tag
 
-**https://shivangibishnoi.github.io/yoga-in-US/**
+**https://shivangibishnoi.github.io/yoga-in-us/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/shivangibishnoi.github.io/yoga-in-US_index.html.md)
+* 🤖 [Automatic feedback here](feedback/shivangibishnoi.github.io/yoga-in-us_index.html.md)
+* No issues found! 🎉
 
 
 
