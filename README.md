@@ -8,15 +8,16 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
 </tr><tr>
 <td><a href="#lauramiinagithubio"><img src="screenshots/lauramiina.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lauramiina.github.io</a></td>
+<td><a href="#juliezhngithubio"><img src="screenshots/juliezhn.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juliezhn.github.io</a></td>
 <td><a href="#meghnadbosegithubio"><img src="screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meghnadbose.github.io</a></td>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
-<td>ml4998.github.io request failed</td>
 </tr><tr>
+<td>ml4998.github.io request failed</td>
 <td><a href="#radhika3558githubio"><img src="screenshots/radhika3558.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>radhika3558.github.io</a></td>
 <td><a href="#renatadaougithubio"><img src="screenshots/renatadaou.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>renatadaou.github.io</a></td>
 <td><a href="#sabinahunggithubio"><img src="screenshots/sabinahung.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sabinahung.github.io</a></td>
-<td><a href="#shivangibishnoigithubio"><img src="screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shivangibishnoi.github.io</a></td>
 </tr><tr>
+<td><a href="#shivangibishnoigithubio"><img src="screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shivangibishnoi.github.io</a></td>
 <td><a href="#thomastaoligithubio"><img src="screenshots/thomastaoli.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>thomastaoli.github.io</a></td>
 <td><a href="#yc4330githubio"><img src="screenshots/yc4330.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yc4330.github.io</a></td>
 </tr></table>
@@ -132,6 +133,29 @@ Quick checks to make sure our pages are looking their best.
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/lauramiina.github.io/suomi-sauna_index.html.md)
+
+
+
+## juliezhn.github.io
+
+
+|url|mobile|medium|wide|
+|---|---|---|---|
+|[Story template](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+
+
+### Automatic Checks
+
+**https://juliezhn.github.io/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `project1_delivery_image.jpeg` missing `alt` tag
+
+**https://juliezhn.github.io/food-delivery/**
+
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* 🤖 [Automatic feedback for copy edits](feedback/juliezhn.github.io/food-delivery_index.html.md)
 
 
 
@@ -312,8 +336,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://thomastaoli.github.io/hk-rice-with-two-sides/**
 
-* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/hk-rice-with-two-sides_index.html.md)
+* 🤖 [Automatic feedback here](feedback/thomastaoli.github.io/hk-rice-with-two-sides_index.html.md)
+* No issues found! 🎉
 
 
 
