@@ -54,7 +54,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Charlene's Portfolio Website](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
-|[My data journalism work](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
+|[Feast for the Senses: Taiwan's Thriving Buffet Restaurant Scene](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -199,6 +199,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
