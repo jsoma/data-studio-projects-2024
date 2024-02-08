@@ -142,7 +142,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Julie Zhu's Portfolio](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Story template](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/food-delivery_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/food-delivery_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -153,7 +153,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://juliezhn.github.io/food-delivery/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `project1_delivery_image.jpeg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/juliezhn.github.io/food-delivery_index.html.md)
 
 
@@ -175,8 +176,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
