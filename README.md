@@ -119,7 +119,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Laura Kukkonen](https://lauramiina.github.io/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lauramiina.github.io/index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/index.html-wide-full.jpg)|
+|[Laura Kukkonen](https://lauramiina.github.io/)|[![mobile](screenshots/lauramiina.github.io/index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/index.html-wide-full.jpg)|
 |[Sauna](https://lauramiina.github.io/suomi-sauna/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lauramiina.github.io/suomi-sauna_index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/suomi-sauna_index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/suomi-sauna_index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/suomi-sauna_index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/suomi-sauna_index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/suomi-sauna_index.html-wide-full.jpg)|
 
 
@@ -176,8 +176,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
