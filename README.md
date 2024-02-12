@@ -65,8 +65,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://charlenelin0824.github.io/fancy-buffet/**
 
-* Add a link to your project's GitHub repo, so people can review your code
-* 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/fancy-buffet_index.html.md)
+* 🤖 [Automatic feedback here](feedback/charlenelin0824.github.io/fancy-buffet_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -176,8 +176,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
