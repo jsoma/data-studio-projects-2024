@@ -12,7 +12,7 @@ Quick checks to make sure our pages are looking their best.
 <td><a href="#meghnadbosegithubio"><img src="screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meghnadbose.github.io</a></td>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
 </tr><tr>
-<td>ml4998.github.io request failed</td>
+<td><a href="#ml4998githubio"><img src="screenshots/ml4998.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ml4998.github.io</a></td>
 <td><a href="#radhika3558githubio"><img src="screenshots/radhika3558.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>radhika3558.github.io</a></td>
 <td><a href="#renatadaougithubio"><img src="screenshots/renatadaou.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>renatadaou.github.io</a></td>
 <td><a href="#sabinahunggithubio"><img src="screenshots/sabinahung.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sabinahung.github.io</a></td>
@@ -176,8 +176,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -209,7 +209,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://ml4998.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[index.html](https://ml4998.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/index.html-wide-full.jpg)|
 |[United States of Pizza: A Culinary Map of Pie Preferences](https://ml4998.github.io/Pizza-styles/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-full.jpg)|
 
 
@@ -217,7 +217,9 @@ Quick checks to make sure our pages are looking their best.
 
 **https://ml4998.github.io/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Needs a title, add a `<title>` tag to the `<head>`
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ml4998.github.io/Pizza-styles/**
 
