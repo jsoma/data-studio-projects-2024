@@ -210,7 +210,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[index.html](https://ml4998.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/index.html-wide-full.jpg)|
-|[United States of Pizza: A Culinary Map of Pie Preferences](https://ml4998.github.io/Pizza-styles/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-full.jpg)|
+|[Story template](https://ml4998.github.io/Pizza-styles/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -224,7 +224,17 @@ Quick checks to make sure our pages are looking their best.
 **https://ml4998.github.io/Pizza-styles/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `/Users/mariamlobjanidze/Desktop/pizza/sicillian.jpg 
+            ` missing `alt` tag
+    * Image `/Users/mariamlobjanidze/Desktop/pizza/deepdish.jpg 
+            ` missing `alt` tag
+    * Image `/Users/mariamlobjanidze/Desktop/pizza/supreme.jpg 
+
+            ` missing `alt` tag
+    * Image ` /Users/mariamlobjanidze/Desktop/data_studio/chart.png 
+
+            ` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Pizza-styles_index.html.md)
 
 
