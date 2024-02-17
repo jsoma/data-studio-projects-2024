@@ -176,8 +176,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -228,9 +228,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `sicillian.jpg` missing `alt` tag
     * Image `deepdish.jpg` missing `alt` tag
     * Image `supreme.jpg` missing `alt` tag
-    * Image ` /Users/mariamlobjanidze/Desktop/data_studio/chart.png 
-
-            ` missing `alt` tag
+    * Image `chart.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Pizza-styles_index.html.md)
 
 
