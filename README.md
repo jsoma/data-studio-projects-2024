@@ -234,8 +234,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/indian-tv-media-coverage-analysis/**
 
-* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html.md)
+* No issues found! 🎉
 
 **https://meghnadbose.github.io/test-cricket**
 
@@ -435,7 +435,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Thomas Li - Home](https://thomastaoli.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-wide-full.jpg)|
-|[Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/dragon-baby/)|[![mobile](screenshots/thomastaoli.github.io/dragon-baby_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/dragon-baby_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/dragon-baby_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-wide-full.jpg)|
+|[Why the Year of Dragon brings baby boom?](https://thomastaoli.github.io/dragon-baby/)|[![mobile](screenshots/thomastaoli.github.io/dragon-baby_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/dragon-baby_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/dragon-baby_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-wide-full.jpg)|
 |[Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/hk-rice-with-two-sides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-wide-full.jpg)|
 
 
