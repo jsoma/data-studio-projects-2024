@@ -235,13 +235,12 @@ Quick checks to make sure our pages are looking their best.
 **https://meghnadbose.github.io/indian-tv-media-coverage-analysis/**
 
 * Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html.md)
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -269,6 +268,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
