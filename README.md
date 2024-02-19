@@ -142,7 +142,7 @@ Quick checks to make sure our pages are looking their best.
 |---|---|---|---|
 |[katrventura](https://katrventura.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/katrventura.github.io/index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/index.html-wide-full.jpg)|
 |[Feminine Waves](https://katrventura.github.io/climate-turtle-gender/)|[![mobile](screenshots/katrventura.github.io/climate-turtle-gender_index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/climate-turtle-gender_index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/climate-turtle-gender_index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/climate-turtle-gender_index.html-wide-full.jpg)|
-|[2024 Elections](https://katrventura.github.io/elections-scraper/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/katrventura.github.io/elections-scraper_index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/elections-scraper_index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/elections-scraper_index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/elections-scraper_index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/elections-scraper_index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/elections-scraper_index.html-wide-full.jpg)|
+|[2024 Elections](https://katrventura.github.io/elections-scraper/)|[![mobile](screenshots/katrventura.github.io/elections-scraper_index.html-mobile-thumb.jpg)](screenshots/katrventura.github.io/elections-scraper_index.html-mobile-full.jpg)|[![medium](screenshots/katrventura.github.io/elections-scraper_index.html-medium-thumb.jpg)](screenshots/katrventura.github.io/elections-scraper_index.html-medium-full.jpg)|[![wide](screenshots/katrventura.github.io/elections-scraper_index.html-wide-thumb.jpg)](screenshots/katrventura.github.io/elections-scraper_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -262,8 +262,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* No issues found! 🎉
 
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
