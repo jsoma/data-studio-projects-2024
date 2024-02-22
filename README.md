@@ -239,8 +239,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -262,12 +262,13 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* No issues found! 🎉
 
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
@@ -346,8 +347,8 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Renata Carlos Daou - Github](https://renatadaou.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
-|[SoulCycleVsCycleBar](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html-wide-full.jpg)|
-|[Forest Fires in the Amazon](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -358,13 +359,12 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/SoulCycle-vs-CycleBar/**
 
-* Change URL to be all in lowercase
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/SoulCycle-vs-CycleBar_index.html.md)
 
 **https://renatadaou.github.io/Wildfires-in-Amazonas-2023/**
 
-* Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/Wildfires-in-Amazonas-2023_index.html.md)
 
 
