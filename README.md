@@ -159,14 +159,14 @@ Quick checks to make sure our pages are looking their best.
 **https://katrventura.github.io/elections-scraper/**
 
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
-    * Text `60%` is too small at 10px
-    * Text `40%` is too small at 10px
-    * Text `20%` is too small at 10px
-    * Text `20%` is too small at 10px
-    * Text `40%` is too small at 10px
-    * Text `60%` is too small at 10px
-    * Text `80%` is too small at 10px
-    * *and 48 more*
+    * Text `PROGRESSIVE` is too small at 10px
+    * Text `CONSERVATIVE` is too small at 10px
+    * Text `voter turnout` is too small at 8px
+    * Text `60` is too small at 6px
+    * Text `40` is too small at 6px
+    * Text `20%` is too small at 6px
+    * Text `20%` is too small at 6px
+    * *and 131 more*
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/elections-scraper_index.html.md)
 
 
@@ -239,8 +239,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -262,8 +262,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
 
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
