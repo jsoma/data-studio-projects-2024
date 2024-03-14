@@ -262,13 +262,12 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
 
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
@@ -402,7 +401,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Shivangi Bishnoi](https://shivangibishnoi.github.io)|[![mobile](screenshots/shivangibishnoi.github.io/index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-wide-full.jpg)|
+|[Shivangi Bishnoi](https://shivangibishnoi.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivangibishnoi.github.io/index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/index.html-wide-full.jpg)|
 |[Aerosole Debate](https://shivangibishnoi.github.io/aerosols-and-clouds/)|[![mobile](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-wide-full.jpg)|
 |[Yoga story](https://shivangibishnoi.github.io/yoga-in-us/)|[![mobile](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-wide-full.jpg)|
 
@@ -411,10 +410,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://shivangibishnoi.github.io**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `images/profile1.jpg` missing `alt` tag
-    * Image `images/arrow.png` missing `alt` tag
+* No issues found! 🎉
 
 **https://shivangibishnoi.github.io/aerosols-and-clouds/**
 
