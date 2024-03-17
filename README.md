@@ -278,7 +278,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[index.html](https://ml4998.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/index.html-wide-full.jpg)|
+|[Hi, I’m Mariam Lobjanidze!  Mariam Lobjanidze](https://ml4998.github.io/)<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/index.html-wide-full.jpg)|
 |[Story template](https://ml4998.github.io/MOMA/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/MOMA_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/MOMA_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/MOMA_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/MOMA_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/MOMA_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/MOMA_index.html-wide-full.jpg)|
 |[Story template](https://ml4998.github.io/Pizza-styles/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/Pizza-styles_index.html-wide-full.jpg)|
 
@@ -287,9 +287,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://ml4998.github.io/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* No issues found! 🎉
 
 **https://ml4998.github.io/MOMA/**
 
