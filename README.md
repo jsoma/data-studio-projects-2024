@@ -2,71 +2,25 @@
 
 Quick checks to make sure our pages are looking their best.
 
-<table><tr><td><a href="#mandiuugithubio"><img src="screenshots/mandiuu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mandiuu.github.io</a></td>
-<td><a href="#thomastaoligithubio"><img src="screenshots/thomastaoli.github.io/ny-food-desert_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>thomastaoli.github.io</a></td>
-<td><a href="#charlenelin0824githubio"><img src="screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>charlenelin0824.github.io</a></td>
+<table><tr><td><a href="#charlenelin0824githubio"><img src="screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>charlenelin0824.github.io</a></td>
 <td><a href="#dlaiugithubio"><img src="screenshots/dlaiu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>dlaiu.github.io</a></td>
-</tr><tr>
 <td><a href="#juliezhngithubio"><img src="screenshots/juliezhn.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juliezhn.github.io</a></td>
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
-<td><a href="#lauramiinagithubio"><img src="screenshots/lauramiina.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lauramiina.github.io</a></td>
-<td><a href="#mandiuugithubio"><img src="screenshots/mandiuu.github.io/baby_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mandiuu.github.io</a></td>
 </tr><tr>
+<td><a href="#lauramiinagithubio"><img src="screenshots/lauramiina.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lauramiina.github.io</a></td>
+<td><a href="#mandiuugithubio"><img src="screenshots/mandiuu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mandiuu.github.io</a></td>
 <td><a href="#meghnadbosegithubio"><img src="screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meghnadbose.github.io</a></td>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
+</tr><tr>
 <td><a href="#ml4998githubio"><img src="screenshots/ml4998.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ml4998.github.io</a></td>
 <td><a href="#radhika3558githubio"><img src="screenshots/radhika3558.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>radhika3558.github.io</a></td>
-</tr><tr>
 <td><a href="#renatadaougithubio"><img src="screenshots/renatadaou.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>renatadaou.github.io</a></td>
 <td><a href="#sabinahunggithubio"><img src="screenshots/sabinahung.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>sabinahung.github.io</a></td>
+</tr><tr>
 <td><a href="#shivangibishnoigithubio"><img src="screenshots/shivangibishnoi.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shivangibishnoi.github.io</a></td>
 <td><a href="#thomastaoligithubio"><img src="screenshots/thomastaoli.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>thomastaoli.github.io</a></td>
-</tr><tr>
 <td><a href="#yc4330githubio"><img src="screenshots/yc4330.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yc4330.github.io</a></td>
 </tr></table>
-
-
-
-## mandiuu.github.io
-
-
-|url|mobile|medium|wide|
-|---|---|---|---|
-|[Carla Mandiola Website](http://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
-|[Wine in NYC](http://mandiuu.github.io/wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-wide-full.jpg)|
-
-
-### Automatic Checks
-
-**http://mandiuu.github.io/**
-
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-
-**http://mandiuu.github.io/wine**
-
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `GFajZOEXgAAXHJZ.jpeg` missing `alt` tag
-    * Image `prices.png` missing `alt` tag
-* 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/wine_index.html.md)
-
-
-
-## thomastaoli.github.io
-
-
-|url|mobile|medium|wide|
-|---|---|---|---|
-|[Food Desert in New York City](http://thomastaoli.github.io/ny-food-desert/)|[![mobile](screenshots/thomastaoli.github.io/ny-food-desert_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/ny-food-desert_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/ny-food-desert_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/ny-food-desert_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/ny-food-desert_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/ny-food-desert_index.html-wide-full.jpg)|
-
-
-### Automatic Checks
-
-**http://thomastaoli.github.io/ny-food-desert/**
-
-* Minimum font size should be 12px, enlarge text in CSS or Illustrator
-    * Text `Number of selected* grocery stores with fresh food supply in the neighborhood` is too small at 10px
-    * Text `Staten Island` is too small at 10px
-* 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/ny-food-desert_index.html.md)
 
 
 
@@ -278,11 +232,24 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
+|[Carla Mandiola Website](https://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
+|[Wine in NYC](https://mandiuu.github.io/wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-wide-full.jpg)|
 |[✨All that glitters is not gold: the downfall of trying to use NY Data✨](https://mandiuu.github.io/baby/)|[![mobile](screenshots/mandiuu.github.io/baby_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/baby_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/baby_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-wide-full.jpg)|
 |[Where is your bike in the city?](https://mandiuu.github.io/Citi_Bike/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
+
+**https://mandiuu.github.io/**
+
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+
+**https://mandiuu.github.io/wine**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `GFajZOEXgAAXHJZ.jpeg` missing `alt` tag
+    * Image `prices.png` missing `alt` tag
+* 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/wine_index.html.md)
 
 **https://mandiuu.github.io/baby/**
 
@@ -595,6 +562,7 @@ Quick checks to make sure our pages are looking their best.
 |[Thomas Li - Home](https://thomastaoli.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/index.html-wide-full.jpg)|
 |[Why the Year of Dragon brings baby boom?](https://thomastaoli.github.io/dragon-baby/)|[![mobile](screenshots/thomastaoli.github.io/dragon-baby_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/dragon-baby_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/dragon-baby_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/dragon-baby_index.html-wide-full.jpg)|
 |[Data behind Hong Kong's "Rice with two sides" craze](https://thomastaoli.github.io/hk-rice-with-two-sides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/hk-rice-with-two-sides_index.html-wide-full.jpg)|
+|[Food Desert in New York City](https://thomastaoli.github.io/ny-food-desert/)|[![mobile](screenshots/thomastaoli.github.io/ny-food-desert_index.html-mobile-thumb.jpg)](screenshots/thomastaoli.github.io/ny-food-desert_index.html-mobile-full.jpg)|[![medium](screenshots/thomastaoli.github.io/ny-food-desert_index.html-medium-thumb.jpg)](screenshots/thomastaoli.github.io/ny-food-desert_index.html-medium-full.jpg)|[![wide](screenshots/thomastaoli.github.io/ny-food-desert_index.html-wide-thumb.jpg)](screenshots/thomastaoli.github.io/ny-food-desert_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -612,6 +580,13 @@ Quick checks to make sure our pages are looking their best.
 
 * 🤖 [Automatic feedback here](feedback/thomastaoli.github.io/hk-rice-with-two-sides_index.html.md)
 * No issues found! 🎉
+
+**https://thomastaoli.github.io/ny-food-desert/**
+
+* Minimum font size should be 12px, enlarge text in CSS or Illustrator
+    * Text `Number of selected* grocery stores with fresh food supply in the neighborhood` is too small at 10px
+    * Text `Staten Island` is too small at 10px
+* 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/ny-food-desert_index.html.md)
 
 
 
