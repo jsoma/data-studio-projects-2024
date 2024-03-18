@@ -1,6 +1,3 @@
-http://mandiuu.github.io/
-http://mandiuu.github.io/wine
-http://thomastaoli.github.io/ny-food-desert/
 https://charlenelin0824.github.io/
 https://charlenelin0824.github.io/BBC-film-project/
 https://charlenelin0824.github.io/deadly-sweet/
@@ -21,6 +18,8 @@ https://lauramiina.github.io/
 https://lauramiina.github.io/asmr-project/
 https://lauramiina.github.io/nybg-forest/
 https://lauramiina.github.io/suomi-sauna/
+https://mandiuu.github.io/
+https://mandiuu.github.io/wine
 https://mandiuu.github.io/baby/
 https://mandiuu.github.io/Citi_Bike/
 https://meghnadbose.github.io/
@@ -54,6 +53,7 @@ https://shivangibishnoi.github.io/yoga-in-us/
 https://thomastaoli.github.io/
 https://thomastaoli.github.io/dragon-baby/
 https://thomastaoli.github.io/hk-rice-with-two-sides/
+https://thomastaoli.github.io/ny-food-desert/
 https://yc4330.github.io/
 https://yc4330.github.io/311-firework/
 https://yc4330.github.io/gender-ratio-in-china/
