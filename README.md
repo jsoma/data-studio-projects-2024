@@ -310,8 +310,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -476,7 +476,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sabina Hung](https://sabinahung.github.io/)|[![mobile](screenshots/sabinahung.github.io/index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/index.html-wide-full.jpg)|
-|[Should you Dumpster Dive?](https://sabinahung.github.io/dumpster-dive/)|[![mobile](screenshots/sabinahung.github.io/dumpster-dive_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/dumpster-dive_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/dumpster-dive_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/dumpster-dive_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/dumpster-dive_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/dumpster-dive_index.html-wide-full.jpg)|
+|[Dumpster Dive for the environment](https://sabinahung.github.io/dumpster-dive/)|[![mobile](screenshots/sabinahung.github.io/dumpster-dive_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/dumpster-dive_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/dumpster-dive_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/dumpster-dive_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/dumpster-dive_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/dumpster-dive_index.html-wide-full.jpg)|
 |[An Island Divided by Disinformation](https://sabinahung.github.io/gay-marriage-disinformation/)|[![mobile](screenshots/sabinahung.github.io/gay-marriage-disinformation_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/gay-marriage-disinformation_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/gay-marriage-disinformation_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/gay-marriage-disinformation_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/gay-marriage-disinformation_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/gay-marriage-disinformation_index.html-wide-full.jpg)|
 |[Has Taiwan become a cat state?](https://sabinahung.github.io/pet-ownership-taiwan/)|[![mobile](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-mobile-full.jpg)|[![medium](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-medium-full.jpg)|[![wide](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-thumb.jpg)](screenshots/sabinahung.github.io/pet-ownership-taiwan_index.html-wide-full.jpg)|
 
