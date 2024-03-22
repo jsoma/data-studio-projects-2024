@@ -101,7 +101,7 @@ Quick checks to make sure our pages are looking their best.
 |[Julie Zhu's Portfolio](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
 |[Story template](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/food-delivery_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/food-delivery_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-wide-full.jpg)|
 |[Is Julie an outedated name?](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/julie-name_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/julie-name_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/julie-name_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-wide-full.jpg)|
-|[NYC Highout Dropout Rate](https://juliezhn.github.io/nyc-dropout-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-full.jpg)|
+|[Story template](https://juliezhn.github.io/nyc-dropout-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -351,7 +351,6 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 
@@ -455,8 +454,9 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/migration**
 
-* 🤖 [Automatic feedback here](feedback/renatadaou.github.io/migration_index.html.md)
-* No issues found! 🎉
+* Minimum font size should be 12px, enlarge text in CSS or Illustrator
+    * Text `Malta` is too small at 10px
+* 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/migration_index.html.md)
 
 **https://renatadaou.github.io/SoulCycle-vs-CycleBar/**
 
