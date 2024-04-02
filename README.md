@@ -2,7 +2,7 @@
 
 Quick checks to make sure our pages are looking their best.
 
-<table><tr><td><a href="#charlenelin0824githubio"><img src="screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>charlenelin0824.github.io</a></td>
+<table><tr><td>charlenelin0824.github.io request failed</td>
 <td><a href="#dlaiugithubio"><img src="screenshots/dlaiu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>dlaiu.github.io</a></td>
 <td><a href="#juliezhngithubio"><img src="screenshots/juliezhn.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juliezhn.github.io</a></td>
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
@@ -29,7 +29,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Charlene's Portfolio Website](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
+|[Unicorn! · GitHub](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[BBC Film Project](https://charlenelin0824.github.io/BBC-film-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-full.jpg)|
 |[Deadly Sweet – Sugar in American Diet Compared Internationally](https://charlenelin0824.github.io/deadly-sweet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-full.jpg)|
 |[Feast for the Senses: Taiwan's Thriving Buffet Restaurant Scene](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
@@ -39,7 +39,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://charlenelin0824.github.io/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 
 **https://charlenelin0824.github.io/BBC-film-project/**
 
@@ -65,7 +65,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[index.html](https://dlaiu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/index.html-wide-full.jpg)|
-|[data-stories/ign-game-reviews/index.html](https://dlaiu.github.io/data-stories/ign-game-reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Unicorn! · GitHub](https://dlaiu.github.io/data-stories/ign-game-reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Why do all malls in Singapore feel the same?](https://dlaiu.github.io/generic-malls-singapore/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-full.jpg)|
 |[When was the best SNL era, objectively](https://dlaiu.github.io/snl-dream-team/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/snl-dream-team_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/snl-dream-team_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/snl-dream-team_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-wide-full.jpg)|
 
@@ -334,8 +334,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
 
 **https://mjdanbury.github.io/pandemic-changes-311/**
 
