@@ -42,7 +42,7 @@ Quick checks to make sure our pages are looking their best.
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
-    * Image `sabotage.png` missing `alt` tag
+    * Image `treason.png` missing `alt` tag
     * Image `public.jpg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
@@ -57,7 +57,7 @@ Quick checks to make sure our pages are looking their best.
 |---|---|---|---|
 |[Charlene's Portfolio Website](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
 |[BBC Film Project](https://charlenelin0824.github.io/BBC-film-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://charlenelin0824.github.io/deadly-sweet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Deadly Sweet – Sugar in American Diet Compared Internationally](https://charlenelin0824.github.io/deadly-sweet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-full.jpg)|
 |[Feast for the Senses: Taiwan's Thriving Buffet Restaurant Scene](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
 |[Karen Unmasked: Why We Rarely Talk About Violence and Non-Physcial Aggression Among Women](https://charlenelin0824.github.io/female-aggression-and-Karens/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-wide-full.jpg)|
 
@@ -76,7 +76,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://charlenelin0824.github.io/deadly-sweet/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/deadly-sweet_index.html.md)
 
 **https://charlenelin0824.github.io/fancy-buffet/**
@@ -243,7 +243,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `mischief-1.png` missing `alt` tag
+    * Image `subi-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -407,8 +407,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -519,7 +519,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Radhika Rukmangadhan](https://radhika3558.github.io/)|[![mobile](screenshots/radhika3558.github.io/index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://radhika3558.github.io/cash-circulation/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Cash Crunch](https://radhika3558.github.io/cash-circulation/)|[![mobile](screenshots/radhika3558.github.io/cash-circulation_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/cash-circulation_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/cash-circulation_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/cash-circulation_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/cash-circulation_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/cash-circulation_index.html-wide-full.jpg)|
 |[Sticker shock: Prescription drug prices in the US vs the world](https://radhika3558.github.io/pharma-prices/)|[![mobile](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/pharma-prices_index.html-wide-full.jpg)|
 |[Rainy Weekends](https://radhika3558.github.io/rainy-weekends/)|[![mobile](screenshots/radhika3558.github.io/rainy-weekends_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/rainy-weekends_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/rainy-weekends_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/rainy-weekends_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/rainy-weekends_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/rainy-weekends_index.html-wide-full.jpg)|
 |[Butte Creek](https://radhika3558.github.io/salmon-butte-creek/)|[![mobile](screenshots/radhika3558.github.io/salmon-butte-creek_index.html-mobile-thumb.jpg)](screenshots/radhika3558.github.io/salmon-butte-creek_index.html-mobile-full.jpg)|[![medium](screenshots/radhika3558.github.io/salmon-butte-creek_index.html-medium-thumb.jpg)](screenshots/radhika3558.github.io/salmon-butte-creek_index.html-medium-full.jpg)|[![wide](screenshots/radhika3558.github.io/salmon-butte-creek_index.html-wide-thumb.jpg)](screenshots/radhika3558.github.io/salmon-butte-creek_index.html-wide-full.jpg)|
@@ -533,7 +533,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://radhika3558.github.io/cash-circulation/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/radhika3558.github.io/cash-circulation_index.html.md)
 
 **https://radhika3558.github.io/pharma-prices/**
@@ -568,7 +568,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Renata Carlos Daou - Github](https://renatadaou.github.io/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[How Are Journalists Covering Stories in Gaza?](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-full.jpg)|
 |[Syrian Refugees](https://renatadaou.github.io/migration)|[![mobile](screenshots/renatadaou.github.io/migration_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/migration_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/migration_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
@@ -582,7 +582,10 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/journalists-covering-Gaza/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `IMG_8006.JPG` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/journalists-covering-Gaza_index.html.md)
 
 **https://renatadaou.github.io/migration**
@@ -755,7 +758,7 @@ Quick checks to make sure our pages are looking their best.
 |---|---|---|---|
 |[Portfolio of Yuqi Cheng](https://yc4330.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yc4330.github.io/index.html-mobile-thumb.jpg)](screenshots/yc4330.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/yc4330.github.io/index.html-medium-thumb.jpg)](screenshots/yc4330.github.io/index.html-medium-full.jpg)|[![wide](screenshots/yc4330.github.io/index.html-wide-thumb.jpg)](screenshots/yc4330.github.io/index.html-wide-full.jpg)|
 |[311 firework complaints](https://yc4330.github.io/311-firework/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yc4330.github.io/311-firework_index.html-mobile-thumb.jpg)](screenshots/yc4330.github.io/311-firework_index.html-mobile-full.jpg)|[![medium](screenshots/yc4330.github.io/311-firework_index.html-medium-thumb.jpg)](screenshots/yc4330.github.io/311-firework_index.html-medium-full.jpg)|[![wide](screenshots/yc4330.github.io/311-firework_index.html-wide-thumb.jpg)](screenshots/yc4330.github.io/311-firework_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://yc4330.github.io/gender-ratio-in-china/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Missing Girls in the Third Child](https://yc4330.github.io/gender-ratio-in-china/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yc4330.github.io/gender-ratio-in-china_index.html-mobile-thumb.jpg)](screenshots/yc4330.github.io/gender-ratio-in-china_index.html-mobile-full.jpg)|[![medium](screenshots/yc4330.github.io/gender-ratio-in-china_index.html-medium-thumb.jpg)](screenshots/yc4330.github.io/gender-ratio-in-china_index.html-medium-full.jpg)|[![wide](screenshots/yc4330.github.io/gender-ratio-in-china_index.html-wide-thumb.jpg)](screenshots/yc4330.github.io/gender-ratio-in-china_index.html-wide-full.jpg)|
 |[Kumquat, a new luxurious fruit](https://yc4330.github.io/kumquat-rongan/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yc4330.github.io/kumquat-rongan_index.html-mobile-thumb.jpg)](screenshots/yc4330.github.io/kumquat-rongan_index.html-mobile-full.jpg)|[![medium](screenshots/yc4330.github.io/kumquat-rongan_index.html-medium-thumb.jpg)](screenshots/yc4330.github.io/kumquat-rongan_index.html-medium-full.jpg)|[![wide](screenshots/yc4330.github.io/kumquat-rongan_index.html-wide-thumb.jpg)](screenshots/yc4330.github.io/kumquat-rongan_index.html-wide-full.jpg)|
 
 
@@ -772,7 +775,10 @@ Quick checks to make sure our pages are looking their best.
 
 **https://yc4330.github.io/gender-ratio-in-china/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `doc/child-policy.jpg` missing `alt` tag
+    * Image `doc/pic.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/yc4330.github.io/gender-ratio-in-china_index.html.md)
 
 **https://yc4330.github.io/kumquat-rongan/**
