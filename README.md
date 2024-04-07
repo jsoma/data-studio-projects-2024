@@ -58,7 +58,7 @@ Quick checks to make sure our pages are looking their best.
 |[Charlene's Portfolio Website](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
 |[BBC Film Project](https://charlenelin0824.github.io/BBC-film-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-full.jpg)|
 |[Deadly Sweet – Sugar in American Diet Compared Internationally](https://charlenelin0824.github.io/deadly-sweet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Feast for the Senses: Taiwan's Thriving Buffet Restaurant Scene](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
 |[Karen Unmasked: Why We Rarely Talk About Violence and Non-Physcial Aggression Among Women](https://charlenelin0824.github.io/female-aggression-and-Karens/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-wide-full.jpg)|
 
 
@@ -81,8 +81,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://charlenelin0824.github.io/fancy-buffet/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/fancy-buffet_index.html.md)
+* 🤖 [Automatic feedback here](feedback/charlenelin0824.github.io/fancy-buffet_index.html.md)
+* No issues found! 🎉
 
 **https://charlenelin0824.github.io/female-aggression-and-Karens/**
 
@@ -101,7 +101,7 @@ Quick checks to make sure our pages are looking their best.
 |[What does bigfoot look like?](https://dlaiu.github.io/big-foot)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/big-foot_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/big-foot_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/big-foot_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/big-foot_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/big-foot_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/big-foot_index.html-wide-full.jpg)|
 |[data-stories/ign-game-reviews/index.html](https://dlaiu.github.io/data-stories/ign-game-reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Why do all malls in Singapore feel the same?](https://dlaiu.github.io/generic-malls-singapore/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://dlaiu.github.io/snl-dream-team/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[When was the best SNL era, objectively](https://dlaiu.github.io/snl-dream-team/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/snl-dream-team_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/snl-dream-team_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/snl-dream-team_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -127,7 +127,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://dlaiu.github.io/snl-dream-team/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/dlaiu.github.io/snl-dream-team_index.html.md)
 
 
@@ -140,7 +140,7 @@ Quick checks to make sure our pages are looking their best.
 |[Julie Zhu's Portfolio](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
 |[Story template](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/food-delivery_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/food-delivery_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-wide-full.jpg)|
 |[Is Julie an outedated name?](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/julie-name_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/julie-name_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/julie-name_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Melting Polar Ice](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-full.jpg)|
 |[Story template](https://juliezhn.github.io/nyc-dropout-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-full.jpg)|
 
 
@@ -171,7 +171,17 @@ Quick checks to make sure our pages are looking their best.
 
 **https://juliezhn.github.io/melting-polar-ice/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `1985.jpg` missing `alt` tag
+* Minimum font size should be 12px, enlarge text in CSS or Illustrator
+    * Text `Source: National Snow & Ice Data Center` is too small at 10px
+    * Text `Note: Missing data in years of 1978 and 1988` is too small at 10px
+    * Text `Source: National Snow & Ice Data Center` is too small at 10px
+    * Text `Note: Missing data in years of 1978 and 1988` is too small at 10px
+    * Text `% through year` is too small at 10px
+    * Text `0%` is too small at 10px
+    * Text `-3.38%` is too small at 10px
+    * *and 13 more*
 * 🤖 [Automatic feedback for copy edits](feedback/juliezhn.github.io/melting-polar-ice_index.html.md)
 
 **https://juliezhn.github.io/nyc-dropout-rate/**
@@ -306,7 +316,7 @@ Quick checks to make sure our pages are looking their best.
 |[Carla Mandiola Website](https://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
 |[✨All that glitters is not gold: the downfall of trying to use NY Data✨](https://mandiuu.github.io/baby/)|[![mobile](screenshots/mandiuu.github.io/baby_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/baby_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/baby_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-wide-full.jpg)|
 |[Where is your bike in the city?](https://mandiuu.github.io/Citi_Bike/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://mandiuu.github.io/happiness)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Shiny Happy People](https://mandiuu.github.io/happiness)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/happiness_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/happiness_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/happiness_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-wide-full.jpg)|
 |[Wine in NYC](https://mandiuu.github.io/wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-wide-full.jpg)|
 
 
@@ -338,7 +348,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mandiuu.github.io/happiness**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/happiness_index.html.md)
 
 **https://mandiuu.github.io/wine**
@@ -471,7 +481,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
 
 **https://ml4998.github.io/MOMA/**
@@ -558,9 +568,9 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Renata Carlos Daou - Github](https://renatadaou.github.io/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
-|[How Are Journalists Covering Stories in Gaza?](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-full.jpg)|
+|[Unicorn! · GitHub](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Syrian Refugees](https://renatadaou.github.io/migration)|[![mobile](screenshots/renatadaou.github.io/migration_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/migration_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/migration_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Unicorn! · GitHub](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
@@ -572,10 +582,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/journalists-covering-Gaza/**
 
-* Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `IMG_7896.JPG` missing `alt` tag
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/journalists-covering-Gaza_index.html.md)
 
 **https://renatadaou.github.io/migration**
