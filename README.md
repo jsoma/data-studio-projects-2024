@@ -87,6 +87,9 @@ Quick checks to make sure our pages are looking their best.
 **https://charlenelin0824.github.io/female-aggression-and-Karens/**
 
 * Change URL to be all in lowercase
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `book-hardcopy.png` missing `alt` tag
+    * Image `https://static01.nyt.com/images/2024/02/01/multimedia/01eu-hungary-orban-2-ghkw/01eu-hungary-orban-2-ghkw-superJumbo.jpg?quality=75&auto=webp` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/female-aggression-and-Karens_index.html.md)
 
@@ -586,7 +589,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `mprnew.jpg` missing `alt` tag
     * Image `dallasnew.jpg` missing `alt` tag
-    * Image `IMG_8006.JPG` missing `alt` tag
+    * Image `mprnew.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/journalists-covering-Gaza_index.html.md)
 
 **https://renatadaou.github.io/migration**
@@ -641,7 +644,7 @@ Quick checks to make sure our pages are looking their best.
 **https://sabinahung.github.io/falungong/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `img/market.JPG` missing `alt` tag
+    * Image `img/roadside.jpg` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `$30M` is too small at 9px
     * Text `$20M` is too small at 9px
