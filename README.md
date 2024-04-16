@@ -410,8 +410,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -572,7 +572,7 @@ Quick checks to make sure our pages are looking their best.
 |---|---|---|---|
 |[Renata Carlos Daou - Github](https://renatadaou.github.io/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
 |[How Are Journalists Covering Stories in Gaza?](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://renatadaou.github.io/migration)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Syrian Refugees](https://renatadaou.github.io/migration)|[![mobile](screenshots/renatadaou.github.io/migration_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/migration_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/migration_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
@@ -594,7 +594,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/migration**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Minimum font size should be 12px, enlarge text in CSS or Illustrator
+    * Text `Malta` is too small at 10px
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/migration_index.html.md)
 
 **https://renatadaou.github.io/SoulCycle-vs-CycleBar/**
