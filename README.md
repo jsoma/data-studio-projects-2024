@@ -246,7 +246,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `mischief-1.png` missing `alt` tag
+    * Image `subi-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -484,7 +484,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
 
 **https://ml4998.github.io/MOMA/**
@@ -571,7 +571,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Renata Carlos Daou - Github](https://renatadaou.github.io/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
-|[How Are Journalists Covering Stories in Gaza?](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-full.jpg)|
+|[How Are Journalists Covering Stories in Gaza?](https://renatadaou.github.io/journalists-covering-Gaza/)|[![mobile](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-full.jpg)|
 |[Syrian Refugees](https://renatadaou.github.io/migration)|[![mobile](screenshots/renatadaou.github.io/migration_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/migration_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/migration_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/Wildfires-in-Amazonas-2023/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
@@ -644,7 +644,7 @@ Quick checks to make sure our pages are looking their best.
 **https://sabinahung.github.io/falungong/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `img/roadside.jpg` missing `alt` tag
+    * Image `img/market.JPG` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `$30M` is too small at 9px
     * Text `$20M` is too small at 9px
