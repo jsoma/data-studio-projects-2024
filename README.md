@@ -5,7 +5,7 @@ Quick checks to make sure our pages are looking their best.
 <table><tr><td><a href="#thomastaoligithubio"><img src="screenshots/thomastaoli.github.io/article-23_en.html-medium-thumb.jpg" alt="homepage screenshot"><br>thomastaoli.github.io</a></td>
 <td><a href="#charlenelin0824githubio"><img src="screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>charlenelin0824.github.io</a></td>
 <td><a href="#dlaiugithubio"><img src="screenshots/dlaiu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>dlaiu.github.io</a></td>
-<td>juliezhn.github.io request failed</td>
+<td><a href="#juliezhngithubio"><img src="screenshots/juliezhn.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juliezhn.github.io</a></td>
 </tr><tr>
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
 <td><a href="#lauramiinagithubio"><img src="screenshots/lauramiina.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lauramiina.github.io</a></td>
@@ -140,7 +140,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Julie Zhu's Portfolio](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
 |[Story template](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/food-delivery_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/food-delivery_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-wide-full.jpg)|
 |[Is Julie an outedated name?](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/julie-name_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/julie-name_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/julie-name_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-wide-full.jpg)|
 |[Melting Polar Ice](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-full.jpg)|
@@ -151,7 +151,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://juliezhn.github.io/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juliezhn.github.io/food-delivery/**
 
