@@ -9,7 +9,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
 <td><a href="#lauramiinagithubio"><img src="screenshots/lauramiina.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lauramiina.github.io</a></td>
-<td><a href="#mandiuugithubio"><img src="screenshots/mandiuu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mandiuu.github.io</a></td>
+<td>mandiuu.github.io request failed</td>
 <td><a href="#meghnadbosegithubio"><img src="screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>meghnadbose.github.io</a></td>
 </tr><tr>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
@@ -316,7 +316,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Carla Mandiola Website](https://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
+|[Unicorn! · GitHub](https://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[✨All that glitters is not gold: the downfall of trying to use NY Data✨](https://mandiuu.github.io/baby/)|[![mobile](screenshots/mandiuu.github.io/baby_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/baby_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/baby_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-wide-full.jpg)|
 |[Where is your bike in the city?](https://mandiuu.github.io/Citi_Bike/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-full.jpg)|
 |[Shiny Happy People](https://mandiuu.github.io/happiness)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/happiness_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/happiness_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/happiness_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-wide-full.jpg)|
@@ -327,7 +327,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mandiuu.github.io/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 
 **https://mandiuu.github.io/baby/**
 
@@ -484,7 +484,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
 
 **https://ml4998.github.io/MOMA/**
