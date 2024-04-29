@@ -589,7 +589,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `mprnew.jpg` missing `alt` tag
     * Image `dallasnew.jpg` missing `alt` tag
-    * Image `IMG_7896.JPG` missing `alt` tag
+    * Image `mprnew.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/journalists-covering-Gaza_index.html.md)
 
 **https://renatadaou.github.io/migration**
