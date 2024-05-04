@@ -256,7 +256,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Laura Kukkonen](https://lauramiina.github.io/)|[![mobile](screenshots/lauramiina.github.io/index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/index.html-wide-full.jpg)|
+|[Laura Kukkonen](https://lauramiina.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lauramiina.github.io/index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/index.html-wide-full.jpg)|
 |[ASMR](https://lauramiina.github.io/asmr-project/)|[![mobile](screenshots/lauramiina.github.io/asmr-project_index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/asmr-project_index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/asmr-project_index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/asmr-project_index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/asmr-project_index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/asmr-project_index.html-wide-full.jpg)|
 |[Cherry Trees](https://lauramiina.github.io/cherry-trees/)|[![mobile](screenshots/lauramiina.github.io/cherry-trees_index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/cherry-trees_index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/cherry-trees_index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/cherry-trees_index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/cherry-trees_index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/cherry-trees_index.html-wide-full.jpg)|
 |[Forest](https://lauramiina.github.io/nybg-forest/)|[![mobile](screenshots/lauramiina.github.io/nybg-forest_index.html-mobile-thumb.jpg)](screenshots/lauramiina.github.io/nybg-forest_index.html-mobile-full.jpg)|[![medium](screenshots/lauramiina.github.io/nybg-forest_index.html-medium-thumb.jpg)](screenshots/lauramiina.github.io/nybg-forest_index.html-medium-full.jpg)|[![wide](screenshots/lauramiina.github.io/nybg-forest_index.html-wide-thumb.jpg)](screenshots/lauramiina.github.io/nybg-forest_index.html-wide-full.jpg)|
@@ -267,7 +267,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://lauramiina.github.io/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* No issues found! 🎉
 
 **https://lauramiina.github.io/asmr-project/**
 
@@ -646,7 +646,7 @@ Quick checks to make sure our pages are looking their best.
 **https://sabinahung.github.io/falungong/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `img/roadside.jpg` missing `alt` tag
+    * Image `img/market.JPG` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `$30M` is too small at 9px
     * Text `$20M` is too small at 9px
