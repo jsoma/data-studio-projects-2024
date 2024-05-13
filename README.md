@@ -43,7 +43,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
     * Image `sabotage.png` missing `alt` tag
-    * Image `rita.jpeg` missing `alt` tag
+    * Image `public.jpg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/article-23_en.html.md)
@@ -410,8 +410,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -591,7 +591,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `mprnew.jpg` missing `alt` tag
     * Image `dallasnew.jpg` missing `alt` tag
-    * Image `mprnew.jpg` missing `alt` tag
+    * Image `IMG_7896.JPG` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/journalists-covering-Gaza_index.html.md)
 
 **https://renatadaou.github.io/migration**
