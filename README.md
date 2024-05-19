@@ -135,7 +135,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Site not found · GitHub Pages](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[Story template](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/food-delivery_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/food-delivery_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/food-delivery_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Is Julie an outedated name?](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/julie-name_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/julie-name_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/julie-name_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-wide-full.jpg)|
 |[Melting Polar Ice](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-full.jpg)|
 |[Story template](https://juliezhn.github.io/nyc-dropout-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/nyc-dropout-rate_index.html-wide-full.jpg)|
@@ -149,8 +149,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://juliezhn.github.io/food-delivery/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `project1_delivery_image.jpeg` missing `alt` tag
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/juliezhn.github.io/food-delivery_index.html.md)
 
 **https://juliezhn.github.io/julie-name/**
@@ -429,8 +428,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -504,7 +503,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `cubbylong.jpg` missing `alt` tag
+    * Image `hensbetter.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -661,7 +660,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
