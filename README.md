@@ -136,7 +136,7 @@ Quick checks to make sure our pages are looking their best.
 |---|---|---|---|
 |[Site not found · GitHub Pages](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Site not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[Is Julie an outedated name?](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/julie-name_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/julie-name_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/julie-name_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/julie-name_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Melting Polar Ice](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-full.jpg)|
 |[Site not found · GitHub Pages](https://juliezhn.github.io/nyc-dropout-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
@@ -154,15 +154,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://juliezhn.github.io/julie-name/**
 
-* Minimum font size should be 12px, enlarge text in CSS or Illustrator
-    * Text `200,000 babies` is too small at 10px
-    * Text `200,000 babies` is too small at 10px
-    * Text `0` is too small at 10px
-    * Text `100,000` is too small at 10px
-    * Text `0` is too small at 10px
-    * Text `100,000` is too small at 10px
-    * Text `0` is too small at 9px
-    * *and 9 more*
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/juliezhn.github.io/julie-name_index.html.md)
 
 **https://juliezhn.github.io/melting-polar-ice/**
@@ -428,8 +420,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -470,6 +462,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -704,7 +697,7 @@ Quick checks to make sure our pages are looking their best.
 **https://sabinahung.github.io/falungong/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `img/market.JPG` missing `alt` tag
+    * Image `img/roadside.jpg` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `$30M` is too small at 9px
     * Text `$20M` is too small at 9px
