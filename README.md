@@ -137,7 +137,7 @@ Quick checks to make sure our pages are looking their best.
 |[Julie Zhu's Portfolio](https://juliezhn.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://juliezhn.github.io/food-delivery/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://juliezhn.github.io/julie-name/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[Melting Polar Ice](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-mobile-full.jpg)|[![medium](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-medium-full.jpg)|[![wide](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-thumb.jpg)](screenshots/juliezhn.github.io/melting-polar-ice_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://juliezhn.github.io/melting-polar-ice/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://juliezhn.github.io/nyc-dropout-rate/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
@@ -159,17 +159,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://juliezhn.github.io/melting-polar-ice/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `1985.jpg` missing `alt` tag
-* Minimum font size should be 12px, enlarge text in CSS or Illustrator
-    * Text `Source: National Snow & Ice Data Center` is too small at 10px
-    * Text `Note: Missing data in years of 1978 and 1988` is too small at 10px
-    * Text `Source: National Snow & Ice Data Center` is too small at 10px
-    * Text `Note: Missing data in years of 1978 and 1988` is too small at 10px
-    * Text `% through year` is too small at 10px
-    * Text `0%` is too small at 10px
-    * Text `-3.38%` is too small at 10px
-    * *and 13 more*
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/juliezhn.github.io/melting-polar-ice_index.html.md)
 
 **https://juliezhn.github.io/nyc-dropout-rate/**
@@ -222,9 +212,8 @@ Quick checks to make sure our pages are looking their best.
     * Text `Partial or total removal of` is too small at 10px
     * Text `clitoral glans` is too small at 10px
     * Text `TYPE 2` is too small at 10px
-    * Text ` ` is too small at 10px
-    * Text `Partial or total removal of ` is too small at 10px
-    * Text `clitoral glans and labia ` is too small at 10px
+    * Text `Partial or total removal of` is too small at 10px
+    * Text `clitoral glans and labia` is too small at 10px
     * *and 64 more*
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/fgm-orchids_index.html.md)
 
