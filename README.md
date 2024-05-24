@@ -652,7 +652,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt6.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
@@ -697,7 +697,7 @@ Quick checks to make sure our pages are looking their best.
 **https://sabinahung.github.io/falungong/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `img/market.JPG` missing `alt` tag
+    * Image `img/roadside.jpg` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `$30M` is too small at 9px
     * Text `$20M` is too small at 9px
