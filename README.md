@@ -221,7 +221,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `subi-1.png` missing `alt` tag
+    * Image `mischief-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -410,8 +410,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -452,7 +452,6 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -687,14 +686,14 @@ Quick checks to make sure our pages are looking their best.
 **https://sabinahung.github.io/falungong/**
 
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
-    * Text `$30M` is too small at 9px
-    * Text `$20M` is too small at 9px
-    * Text `$10M` is too small at 9px
-    * Text `$0` is too small at 9px
-    * Text `2012` is too small at 9px
-    * Text `2014` is too small at 9px
-    * Text `2016` is too small at 9px
-    * *and 3 more*
+    * Text `Chinese` is too small at 10px
+    * Text `17.6` is too small at 10px
+    * Text `17.6` is too small at 10px
+    * Text `13.9` is too small at 10px
+    * Text `7.4` is too small at 10px
+    * Text `13` is too small at 10px
+    * Text `Practitioners’ household income (USD) by percentage in Boston 2002` is too small at 10px
+    * *and 10 more*
 * 🤖 [Automatic feedback for copy edits](feedback/sabinahung.github.io/falungong_index.html.md)
 
 **https://sabinahung.github.io/gay-marriage-disinformation/**
