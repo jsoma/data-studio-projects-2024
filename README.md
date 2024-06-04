@@ -221,7 +221,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `mischief-1.png` missing `alt` tag
+    * Image `subi-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -410,8 +410,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -435,8 +435,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
 
 **https://mjdanbury.github.io/pandemic-changes-311/**
 
@@ -452,6 +452,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -467,7 +468,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Mariam Lobjanidze](https://ml4998.github.io/)|[![mobile](screenshots/ml4998.github.io/index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/index.html-wide-full.jpg)|
-|[Lesbian Bars Declining](https://ml4998.github.io/Lesbianbars/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/Lesbianbars_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/Lesbianbars_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/Lesbianbars_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/Lesbianbars_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/Lesbianbars_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/Lesbianbars_index.html-wide-full.jpg)|
+|[Lesbian Bars](https://ml4998.github.io/Lesbianbars/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/Lesbianbars_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/Lesbianbars_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/Lesbianbars_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/Lesbianbars_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/Lesbianbars_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/Lesbianbars_index.html-wide-full.jpg)|
 |[Story template](https://ml4998.github.io/MOMA/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/MOMA_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/MOMA_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/MOMA_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/MOMA_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/MOMA_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/MOMA_index.html-wide-full.jpg)|
 |[NYC arcitecture](https://ml4998.github.io/NYCbuildings/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/NYCbuildings_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/NYCbuildings_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/NYCbuildings_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/NYCbuildings_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/NYCbuildings_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/NYCbuildings_index.html-wide-full.jpg)|
 |[Story template](https://ml4998.github.io/nycresidents/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ml4998.github.io/nycresidents_index.html-mobile-thumb.jpg)](screenshots/ml4998.github.io/nycresidents_index.html-mobile-full.jpg)|[![medium](screenshots/ml4998.github.io/nycresidents_index.html-medium-thumb.jpg)](screenshots/ml4998.github.io/nycresidents_index.html-medium-full.jpg)|[![wide](screenshots/ml4998.github.io/nycresidents_index.html-wide-thumb.jpg)](screenshots/ml4998.github.io/nycresidents_index.html-wide-full.jpg)|
@@ -636,7 +637,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/travel/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `pics/hannah1.jpg` missing `alt` tag
     * Image `pics/hannah5.jpg` missing `alt` tag
