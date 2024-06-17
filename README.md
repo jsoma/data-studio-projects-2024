@@ -4,7 +4,7 @@ Quick checks to make sure our pages are looking their best.
 
 <table><tr><td><a href="#charlenelin0824githubio"><img src="screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>charlenelin0824.github.io</a></td>
 <td><a href="#dlaiugithubio"><img src="screenshots/dlaiu.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>dlaiu.github.io</a></td>
-<td><a href="#githubcom"><img src="screenshots/github.com/katrventura_tiktok-api_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>github.com</a></td>
+<td>github.com request failed</td>
 <td><a href="#juliezhngithubio"><img src="screenshots/juliezhn.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>juliezhn.github.io</a></td>
 </tr><tr>
 <td><a href="#katrventuragithubio"><img src="screenshots/katrventura.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>katrventura.github.io</a></td>
@@ -117,15 +117,15 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[GitHub - katrventura/tiktok-api: This project utilizes David Teather's Unofficial TikTok API Wrapper in Python to create a database of videos using hashtags related to elections.](https://github.com/katrventura/tiktok-api)|[![mobile](screenshots/github.com/katrventura_tiktok-api_index.html-mobile-thumb.jpg)](screenshots/github.com/katrventura_tiktok-api_index.html-mobile-full.jpg)|[![medium](screenshots/github.com/katrventura_tiktok-api_index.html-medium-thumb.jpg)](screenshots/github.com/katrventura_tiktok-api_index.html-medium-full.jpg)|[![wide](screenshots/github.com/katrventura_tiktok-api_index.html-wide-thumb.jpg)](screenshots/github.com/katrventura_tiktok-api_index.html-wide-full.jpg)|
+|[Page not found · GitHub · GitHub](https://github.com/katrventura/tiktok-api)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://github.com/katrventura/tiktok-api**
 
-* 🤖 [Automatic feedback here](feedback/github.com/katrventura_tiktok-api_index.html.md)
-* No issues found! 🎉
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* 🤖 [Automatic feedback for copy edits](feedback/github.com/katrventura_tiktok-api_index.html.md)
 
 
 
