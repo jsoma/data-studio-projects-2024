@@ -32,7 +32,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Charlene's Portfolio Website](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
+|[Charlene Lin  Columbia Journalism School  Portfolio](https://charlenelin0824.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/index.html-wide-full.jpg)|
 |[BBC Film Project](https://charlenelin0824.github.io/BBC-film-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-full.jpg)|
 |[Deadly Sweet – Sugar in American Diet Compared Internationally](https://charlenelin0824.github.io/deadly-sweet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-full.jpg)|
 |[Feast for the Senses: Taiwan's Thriving Buffet Restaurant Scene](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
@@ -194,7 +194,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/elections-scraper/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `PROGRESSIVE` is too small at 10px
     * Text `CONSERVATIVE` is too small at 10px
@@ -222,7 +221,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `mischief-1.png` missing `alt` tag
+    * Image `subi-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -453,6 +452,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -801,7 +801,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
     * Image `treason.png` missing `alt` tag
-    * Image `public.jpg` missing `alt` tag
+    * Image `rita.jpeg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/article-23_en.html.md)
