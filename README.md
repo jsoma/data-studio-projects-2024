@@ -195,7 +195,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/elections-scraper/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `PROGRESSIVE` is too small at 10px
     * Text `CONSERVATIVE` is too small at 10px
@@ -637,13 +636,12 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/travel/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `pics/hannah1.jpg` missing `alt` tag
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
