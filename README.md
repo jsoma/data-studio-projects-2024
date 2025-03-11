@@ -302,7 +302,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Carla's Portfolio](https://mandiuu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://mandiuu.github.io/baby/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[✨All that glitters is not gold: the downfall of trying to use NY Data✨](https://mandiuu.github.io/baby/)|[![mobile](screenshots/mandiuu.github.io/baby_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/baby_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/baby_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-wide-full.jpg)|
 |[Where is your bike in the city?](https://mandiuu.github.io/Citi_Bike/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-full.jpg)|
 |[Shiny Happy People](https://mandiuu.github.io/happiness)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/happiness_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/happiness_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/happiness_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-wide-full.jpg)|
 |[Toy Story](https://mandiuu.github.io/toystory/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/toystory_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/toystory_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/toystory_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/toystory_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/toystory_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/toystory_index.html-wide-full.jpg)|
@@ -318,8 +318,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mandiuu.github.io/baby/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/baby_index.html.md)
+* 🤖 [Automatic feedback here](feedback/mandiuu.github.io/baby_index.html.md)
+* No issues found! 🎉
 
 **https://mandiuu.github.io/Citi_Bike/**
 
@@ -412,8 +412,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -487,7 +487,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -803,7 +803,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
     * Image `treason.png` missing `alt` tag
-    * Image `donkey.jpg` missing `alt` tag
+    * Image `public.jpg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/article-23_en.html.md)
