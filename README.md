@@ -213,9 +213,8 @@ Quick checks to make sure our pages are looking their best.
     * Text `Partial or total removal of` is too small at 10px
     * Text `clitoral glans` is too small at 10px
     * Text `TYPE 2` is too small at 10px
-    * Text ` ` is too small at 10px
-    * Text `Partial or total removal of ` is too small at 10px
-    * Text `clitoral glans and labia ` is too small at 10px
+    * Text `Partial or total removal of` is too small at 10px
+    * Text `clitoral glans and labia` is too small at 10px
     * *and 64 more*
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/fgm-orchids_index.html.md)
 
@@ -413,8 +412,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
