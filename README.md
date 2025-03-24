@@ -412,8 +412,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -487,7 +487,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -602,7 +602,7 @@ Quick checks to make sure our pages are looking their best.
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Renata Carlos Daou](https://renatadaou.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/renatadaou.github.io/index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/index.html-wide-full.jpg)|
-|[How Are Journalists Covering Stories in Gaza?](https://renatadaou.github.io/journalists-covering-Gaza/)|[![mobile](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/journalists-covering-Gaza_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://renatadaou.github.io/journalists-covering-Gaza/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Syrian Refugees](https://renatadaou.github.io/migration)|[![mobile](screenshots/renatadaou.github.io/migration_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/migration_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/migration_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/migration_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://renatadaou.github.io/SoulCycle-vs-CycleBar/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[I Asked Four Young Women What Their Favorite Countries Are](https://renatadaou.github.io/travel/)|[![mobile](screenshots/renatadaou.github.io/travel_index.html-mobile-thumb.jpg)](screenshots/renatadaou.github.io/travel_index.html-mobile-full.jpg)|[![medium](screenshots/renatadaou.github.io/travel_index.html-medium-thumb.jpg)](screenshots/renatadaou.github.io/travel_index.html-medium-full.jpg)|[![wide](screenshots/renatadaou.github.io/travel_index.html-wide-thumb.jpg)](screenshots/renatadaou.github.io/travel_index.html-wide-full.jpg)|
@@ -617,11 +617,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://renatadaou.github.io/journalists-covering-Gaza/**
 
-* Change URL to be all in lowercase
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `mprnew.jpg` missing `alt` tag
-    * Image `dallasnew.jpg` missing `alt` tag
-    * Image `mprnew.jpg` missing `alt` tag
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/journalists-covering-Gaza_index.html.md)
 
 **https://renatadaou.github.io/migration**
@@ -738,7 +734,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://shivangibishnoi.github.io/flood-insurance/index.html**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `+50%` is too small at 8px
     * Text `0%` is too small at 8px
