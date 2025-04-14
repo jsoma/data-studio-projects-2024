@@ -305,7 +305,7 @@ Quick checks to make sure our pages are looking their best.
 |[✨All that glitters is not gold: the downfall of trying to use NY Data✨](https://mandiuu.github.io/baby/)|[![mobile](screenshots/mandiuu.github.io/baby_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/baby_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/baby_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/baby_index.html-wide-full.jpg)|
 |[Where is your bike in the city?](https://mandiuu.github.io/Citi_Bike/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/Citi_Bike_index.html-wide-full.jpg)|
 |[Shiny Happy People](https://mandiuu.github.io/happiness)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/happiness_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/happiness_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/happiness_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/happiness_index.html-wide-full.jpg)|
-|[Toy Story](https://mandiuu.github.io/toystory/)<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/toystory_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/toystory_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/toystory_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/toystory_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/toystory_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/toystory_index.html-wide-full.jpg)|
+|[Unicorn! · GitHub](https://mandiuu.github.io/toystory/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Wine in NYC](https://mandiuu.github.io/wine)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/mandiuu.github.io/wine_index.html-mobile-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-mobile-full.jpg)|[![medium](screenshots/mandiuu.github.io/wine_index.html-medium-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-medium-full.jpg)|[![wide](screenshots/mandiuu.github.io/wine_index.html-wide-thumb.jpg)](screenshots/mandiuu.github.io/wine_index.html-wide-full.jpg)|
 
 
@@ -343,10 +343,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mandiuu.github.io/toystory/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://modelviewer.dev/shared-assets/icons/hand.png` missing `alt` tag
-    * Image `https://modelviewer.dev/shared-assets/icons/hand.png` missing `alt` tag
-    * Image `https://modelviewer.dev/shared-assets/icons/hand.png` missing `alt` tag
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/mandiuu.github.io/toystory_index.html.md)
 
 **https://mandiuu.github.io/wine**
@@ -487,7 +484,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -638,7 +635,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
@@ -799,7 +796,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
     * Image `treason.png` missing `alt` tag
-    * Image `donkey.jpg` missing `alt` tag
+    * Image `public.jpg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/article-23_en.html.md)
