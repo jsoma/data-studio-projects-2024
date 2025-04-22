@@ -366,7 +366,7 @@ Quick checks to make sure our pages are looking their best.
 |[Meghnad Bose  Award-winning multimedia journalist](https://meghnadbose.github.io/)|[![mobile](screenshots/meghnadbose.github.io/index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/index.html-wide-full.jpg)|
 |[Interactive: How Accurately Can You Guess India's Press Freedom Trajectory Since Modi Became PM in 2014?](https://meghnadbose.github.io/india-trajectory-under-modi/)|[![mobile](screenshots/meghnadbose.github.io/india-trajectory-under-modi_index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/india-trajectory-under-modi_index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/india-trajectory-under-modi_index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/india-trajectory-under-modi_index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/india-trajectory-under-modi_index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/india-trajectory-under-modi_index.html-wide-full.jpg)|
 |[In Election Year, Religious Issues and Opposition-Bashing Dominate Primetime TV News in India](https://meghnadbose.github.io/indian-tv-media-coverage-analysis/)|[![mobile](screenshots/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/indian-tv-media-coverage-analysis_index.html-wide-full.jpg)|
-|[When Walls Breaks Barriers: How Irish Solidarity With Palestine Is Expressing Itself Through Art](https://meghnadbose.github.io/ireland-palestine-solidarity-art)|[![mobile](screenshots/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html-wide-full.jpg)|
+|[Unicorn! · GitHub](https://meghnadbose.github.io/ireland-palestine-solidarity-art)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[We Ranked the Purple States of the 2024 US Presidential Election. Here Are The Swingiest States of Them All](https://meghnadbose.github.io/purple-states-us-presidential-election/)|[![mobile](screenshots/meghnadbose.github.io/purple-states-us-presidential-election_index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/purple-states-us-presidential-election_index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/purple-states-us-presidential-election_index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/purple-states-us-presidential-election_index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/purple-states-us-presidential-election_index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/purple-states-us-presidential-election_index.html-wide-full.jpg)|
 |[More Results, Closer Matches in Tests Now: But Will That Be Enough to Save Cricket’s 5-Day Format?](https://meghnadbose.github.io/test-cricket)|[![mobile](screenshots/meghnadbose.github.io/test-cricket_index.html-mobile-thumb.jpg)](screenshots/meghnadbose.github.io/test-cricket_index.html-mobile-full.jpg)|[![medium](screenshots/meghnadbose.github.io/test-cricket_index.html-medium-thumb.jpg)](screenshots/meghnadbose.github.io/test-cricket_index.html-medium-full.jpg)|[![wide](screenshots/meghnadbose.github.io/test-cricket_index.html-wide-thumb.jpg)](screenshots/meghnadbose.github.io/test-cricket_index.html-wide-full.jpg)|
 
@@ -390,11 +390,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/ireland-palestine-solidarity-art**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `Samia.jpg` missing `alt` tag
-    * Image `Masa.jpg` missing `alt` tag
-    * Image `Dublin-1.jpg` missing `alt` tag
-* Add a link to your project's GitHub repo, so people can review your code
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/ireland-palestine-solidarity-art_index.html.md)
 
 **https://meghnadbose.github.io/purple-states-us-presidential-election/**
@@ -638,7 +634,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
