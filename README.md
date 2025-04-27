@@ -222,7 +222,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `mischief-1.png` missing `alt` tag
+    * Image `subi-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -487,7 +487,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbyinsidewide.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -717,7 +717,7 @@ Quick checks to make sure our pages are looking their best.
 |[Aerosole Debate](https://shivangibishnoi.github.io/aerosols-and-clouds/)|[![mobile](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/aerosols-and-clouds_index.html-wide-full.jpg)|
 |[Flood Insurance](https://shivangibishnoi.github.io/flood-insurance/index.html)|[![mobile](screenshots/shivangibishnoi.github.io/flood-insurance_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/flood-insurance_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/flood-insurance_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/flood-insurance_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/flood-insurance_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/flood-insurance_index.html-wide-full.jpg)|
 |[21 Days and a Lifetime](https://shivangibishnoi.github.io/ladakh/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivangibishnoi.github.io/ladakh_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/ladakh_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/ladakh_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/ladakh_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/ladakh_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/ladakh_index.html-wide-full.jpg)|
-|[Unicorn! · GitHub](https://shivangibishnoi.github.io/moral-hazard/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Flood Policy Moral Hazard](https://shivangibishnoi.github.io/moral-hazard/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/shivangibishnoi.github.io/moral-hazard_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/moral-hazard_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/moral-hazard_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/moral-hazard_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/moral-hazard_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/moral-hazard_index.html-wide-full.jpg)|
 |[Yoga story](https://shivangibishnoi.github.io/yoga-in-us/)|[![mobile](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-mobile-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-mobile-full.jpg)|[![medium](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-medium-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-medium-full.jpg)|[![wide](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-wide-thumb.jpg)](screenshots/shivangibishnoi.github.io/yoga-in-us_index.html-wide-full.jpg)|
 
 
@@ -755,7 +755,16 @@ Quick checks to make sure our pages are looking their best.
 
 **https://shivangibishnoi.github.io/moral-hazard/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in CSS or Illustrator
+    * Text `0.02` is too small at 9px
+    * Text `0.04` is too small at 9px
+    * Text `0.02` is too small at 9px
+    * Text `0.02` is too small at 9px
+    * Text `0.04` is too small at 9px
+    * Text `0.02` is too small at 9px
+    * Text `1990` is too small at 9px
+    * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/shivangibishnoi.github.io/moral-hazard_index.html.md)
 
 **https://shivangibishnoi.github.io/yoga-in-us/**
