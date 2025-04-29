@@ -454,7 +454,6 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -734,6 +733,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://shivangibishnoi.github.io/flood-insurance/index.html**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `+50%` is too small at 8px
     * Text `0%` is too small at 8px
