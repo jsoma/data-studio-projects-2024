@@ -638,7 +638,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
@@ -799,7 +799,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
     * Image `treason.png` missing `alt` tag
-    * Image `donkey.jpg` missing `alt` tag
+    * Image `rita.jpeg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/article-23_en.html.md)
