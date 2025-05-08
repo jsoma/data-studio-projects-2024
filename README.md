@@ -36,7 +36,7 @@ Quick checks to make sure our pages are looking their best.
 |[BBC Film Project](https://charlenelin0824.github.io/BBC-film-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/BBC-film-project_index.html-wide-full.jpg)|
 |[Deadly Sweet – Sugar in American Diet Compared Internationally](https://charlenelin0824.github.io/deadly-sweet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/deadly-sweet_index.html-wide-full.jpg)|
 |[Feast for the Senses: Taiwan's Thriving Buffet Restaurant Scene](https://charlenelin0824.github.io/fancy-buffet/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/fancy-buffet_index.html-wide-full.jpg)|
-|[Karen Unmasked: Why We Rarely Talk About Violence and Non-Physcial Aggression Among Women](https://charlenelin0824.github.io/female-aggression-and-Karens/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-mobile-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-mobile-full.jpg)|[![medium](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-medium-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-medium-full.jpg)|[![wide](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-wide-thumb.jpg)](screenshots/charlenelin0824.github.io/female-aggression-and-Karens_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://charlenelin0824.github.io/female-aggression-and-Karens/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -63,11 +63,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://charlenelin0824.github.io/female-aggression-and-Karens/**
 
-* Change URL to be all in lowercase
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `book-hardcopy.png` missing `alt` tag
-    * Image `https://static01.nyt.com/images/2024/02/01/multimedia/01eu-hungary-orban-2-ghkw/01eu-hungary-orban-2-ghkw-superJumbo.jpg?quality=75&auto=webp` missing `alt` tag
-* Add a link to your project's GitHub repo, so people can review your code
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/charlenelin0824.github.io/female-aggression-and-Karens_index.html.md)
 
 
@@ -437,8 +433,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
 
 **https://mjdanbury.github.io/pandemic-changes-311/**
 
