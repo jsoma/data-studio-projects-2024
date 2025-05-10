@@ -14,7 +14,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
 <td><a href="#ml4998githubio"><img src="screenshots/ml4998.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ml4998.github.io</a></td>
-<td><a href="#pettravelstreamlitapp"><img src="screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>pettravel.streamlit.app</a></td>
+<td>pettravel.streamlit.app request failed</td>
 <td><a href="#radhika3558githubio"><img src="screenshots/radhika3558.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>radhika3558.github.io</a></td>
 </tr><tr>
 <td><a href="#renatadaougithubio"><img src="screenshots/renatadaou.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>renatadaou.github.io</a></td>
@@ -483,7 +483,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `hensbetter.jpg` missing `alt` tag
+    * Image `cubbylong.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -525,14 +525,14 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
+|[502 Server Error](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://pettravel.streamlit.app/**
 
-* No issues found! 🎉
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 
 
 
@@ -795,7 +795,7 @@ Quick checks to make sure our pages are looking their best.
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `header.png` missing `alt` tag
     * Image `treason.png` missing `alt` tag
-    * Image `rita.jpeg` missing `alt` tag
+    * Image `public.jpg` missing `alt` tag
     * Image `skyline.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
 * 🤖 [Automatic feedback for copy edits](feedback/thomastaoli.github.io/article-23_en.html.md)
