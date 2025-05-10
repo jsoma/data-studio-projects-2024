@@ -14,7 +14,7 @@ Quick checks to make sure our pages are looking their best.
 </tr><tr>
 <td><a href="#mjdanburygithubio"><img src="screenshots/mjdanbury.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>mjdanbury.github.io</a></td>
 <td><a href="#ml4998githubio"><img src="screenshots/ml4998.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ml4998.github.io</a></td>
-<td>pettravel.streamlit.app request failed</td>
+<td><a href="#pettravelstreamlitapp"><img src="screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>pettravel.streamlit.app</a></td>
 <td><a href="#radhika3558githubio"><img src="screenshots/radhika3558.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>radhika3558.github.io</a></td>
 </tr><tr>
 <td><a href="#renatadaougithubio"><img src="screenshots/renatadaou.github.io/index.html-medium-thumb.jpg" alt="homepage screenshot"><br>renatadaou.github.io</a></td>
@@ -408,8 +408,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -433,8 +433,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* No issues found! 🎉
 
 **https://mjdanbury.github.io/pandemic-changes-311/**
 
@@ -483,7 +483,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Change URL to be all in lowercase
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `cubbylong.jpg` missing `alt` tag
+    * Image `hensbetter.jpg` missing `alt` tag
     * Image `jakayla.jpg` missing `alt` tag
     * Image `inside.jpg` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/ml4998.github.io/Lesbianbars_index.html.md)
@@ -525,14 +525,14 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[502 Server Error](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://pettravel.streamlit.app/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* No issues found! 🎉
 
 
 
