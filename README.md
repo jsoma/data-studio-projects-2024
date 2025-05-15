@@ -73,9 +73,9 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[index.html](https://dlaiu.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/index.html-wide-full.jpg)|
-|[big-foot/index.html](https://dlaiu.github.io/big-foot)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
-|[data-stories/ign-game-reviews/index.html](https://dlaiu.github.io/data-stories/ign-game-reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[index.html](https://dlaiu.github.io/)<br>:x: og:description<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/index.html-wide-full.jpg)|
+|[big-foot/index.html](https://dlaiu.github.io/big-foot)<br>:x: og:description<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[data-stories/ign-game-reviews/index.html](https://dlaiu.github.io/data-stories/ign-game-reviews)<br>:x: og:description<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 |[Why do all malls in Singapore feel the same?](https://dlaiu.github.io/generic-malls-singapore/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/generic-malls-singapore_index.html-wide-full.jpg)|
 |[When was the best SNL era, objectively](https://dlaiu.github.io/snl-dream-team/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/dlaiu.github.io/snl-dream-team_index.html-mobile-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-mobile-full.jpg)|[![medium](screenshots/dlaiu.github.io/snl-dream-team_index.html-medium-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-medium-full.jpg)|[![wide](screenshots/dlaiu.github.io/snl-dream-team_index.html-wide-thumb.jpg)](screenshots/dlaiu.github.io/snl-dream-team_index.html-wide-full.jpg)|
 
@@ -450,6 +450,7 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -633,7 +634,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
