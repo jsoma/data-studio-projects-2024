@@ -218,7 +218,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `mischief-1.png` missing `alt` tag
+    * Image `subi-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -408,8 +408,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -450,7 +450,6 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -634,7 +633,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
