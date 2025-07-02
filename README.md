@@ -525,7 +525,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
+|[Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -634,7 +634,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
@@ -730,6 +730,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://shivangibishnoi.github.io/flood-insurance/index.html**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `+50%` is too small at 8px
     * Text `0%` is too small at 8px
