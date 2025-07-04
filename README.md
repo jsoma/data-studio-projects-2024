@@ -408,8 +408,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
-* No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
 
 
 
@@ -525,7 +525,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
+|[Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
