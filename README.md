@@ -218,7 +218,7 @@ Quick checks to make sure our pages are looking their best.
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `military-bases.png` missing `alt` tag
-    * Image `subi-1.png` missing `alt` tag
+    * Image `mischief-1.png` missing `alt` tag
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/west-ph-sea_index.html.md)
 
 
@@ -408,8 +408,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -730,6 +730,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://shivangibishnoi.github.io/flood-insurance/index.html**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `+50%` is too small at 8px
     * Text `0%` is too small at 8px
