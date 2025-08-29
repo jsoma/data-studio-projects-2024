@@ -203,15 +203,13 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/fgm-orchids/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `TYPE 1` is too small at 10px
     * Text `Partial or total removal of` is too small at 10px
     * Text `clitoral glans` is too small at 10px
     * Text `TYPE 2` is too small at 10px
-    * Text ` ` is too small at 10px
-    * Text `Partial or total removal of ` is too small at 10px
-    * Text `clitoral glans and labia ` is too small at 10px
+    * Text `Partial or total removal of` is too small at 10px
+    * Text `clitoral glans and labia` is too small at 10px
     * *and 64 more*
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/fgm-orchids_index.html.md)
 
@@ -434,8 +432,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* No issues found! 🎉
 
 **https://mjdanbury.github.io/pandemic-changes-311/**
 
@@ -526,7 +524,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
+|[Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -635,7 +633,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
