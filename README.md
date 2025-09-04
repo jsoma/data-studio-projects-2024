@@ -190,6 +190,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/elections-scraper/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `PROGRESSIVE` is too small at 10px
     * Text `CONSERVATIVE` is too small at 10px
@@ -407,8 +408,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -524,7 +525,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
+|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
