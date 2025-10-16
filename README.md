@@ -432,8 +432,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://mjdanbury.github.io/food-recalls/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* 🤖 [Automatic feedback here](feedback/mjdanbury.github.io/food-recalls_index.html.md)
+* No issues found! 🎉
 
 **https://mjdanbury.github.io/pandemic-changes-311/**
 
@@ -449,7 +449,6 @@ Quick checks to make sure our pages are looking their best.
 **https://mjdanbury.github.io/PIZZA-PIZZA/**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * 🤖 [Automatic feedback for copy edits](feedback/mjdanbury.github.io/PIZZA-PIZZA_index.html.md)
 
 **https://mjdanbury.github.io/song-credits/**
@@ -524,7 +523,7 @@ Quick checks to make sure our pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
+|[Reuniting with your pet · Streamlit](https://pettravel.streamlit.app/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/pettravel.streamlit.app/index.html-mobile-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-mobile-full.jpg)|[![medium](screenshots/pettravel.streamlit.app/index.html-medium-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-medium-full.jpg)|[![wide](screenshots/pettravel.streamlit.app/index.html-wide-thumb.jpg)](screenshots/pettravel.streamlit.app/index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
