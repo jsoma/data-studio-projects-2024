@@ -190,6 +190,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/elections-scraper/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `PROGRESSIVE` is too small at 10px
     * Text `CONSERVATIVE` is too small at 10px
@@ -203,7 +204,6 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/fgm-orchids/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `TYPE 1` is too small at 10px
     * Text `Partial or total removal of` is too small at 10px
@@ -409,8 +409,8 @@ Quick checks to make sure our pages are looking their best.
 
 **https://meghnadbose.github.io/test-cricket**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* 🤖 [Automatic feedback for copy edits](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* 🤖 [Automatic feedback here](feedback/meghnadbose.github.io/test-cricket_index.html.md)
+* No issues found! 🎉
 
 
 
