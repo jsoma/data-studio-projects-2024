@@ -190,6 +190,7 @@ Quick checks to make sure our pages are looking their best.
 
 **https://katrventura.github.io/elections-scraper/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in CSS or Illustrator
     * Text `PROGRESSIVE` is too small at 10px
     * Text `CONSERVATIVE` is too small at 10px
@@ -208,8 +209,9 @@ Quick checks to make sure our pages are looking their best.
     * Text `Partial or total removal of` is too small at 10px
     * Text `clitoral glans` is too small at 10px
     * Text `TYPE 2` is too small at 10px
-    * Text `Partial or total removal of` is too small at 10px
-    * Text `clitoral glans and labia` is too small at 10px
+    * Text ` ` is too small at 10px
+    * Text `Partial or total removal of ` is too small at 10px
+    * Text `clitoral glans and labia ` is too small at 10px
     * *and 64 more*
 * 🤖 [Automatic feedback for copy edits](feedback/katrventura.github.io/fgm-orchids_index.html.md)
 
@@ -633,7 +635,7 @@ Quick checks to make sure our pages are looking their best.
     * Image `pics/hannah5.jpg` missing `alt` tag
     * Image `pics/hannah2.jpg` missing `alt` tag
     * Image `pics/hannah3.jpg` missing `alt` tag
-    * Image `pics/lorenaegypt3.JPG` missing `alt` tag
+    * Image `pics/lorenaegypt4.JPG` missing `alt` tag
     * *and 8 more*
 * 🤖 [Automatic feedback for copy edits](feedback/renatadaou.github.io/travel_index.html.md)
 
